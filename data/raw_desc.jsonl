@@ -1,0 +1,1008 @@
+{"id": "37240700001", "desc": ".338 Lapua Mag AP — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 7, Weight: 0.01 kg."}
+{"id": "37220400001", "desc": ".357 Magnum FMJ — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37220200001", "desc": ".357 Magnum HP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37220300001", "desc": ".357 Magnum JHP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37220000001", "desc": ".357 Magnum Snake Shot — Ammo in Delta Force. .357 Snake Shot. Fires 8 pellets, dealing significant damage to unarmored parts of enemies. Stack Size: 60…"}
+{"id": "18070000003", "desc": ".357 Revolver — Weapon in Delta Force. A powerful double-action Revolver that fires .357 Magnum rounds. Capacity: 6, Damage: 56, Armor Damage: 39."}
+{"id": "13020000167", "desc": ".357 Revolver Long Barrel — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 3,027."}
+{"id": "13020000484", "desc": ".357 Revolver Zephyr Barrel — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 5,294."}
+{"id": "13020000485", "desc": ".357 Revolver Zephyr Long Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 5,276."}
+{"id": "13030000174", "desc": ".357 Revolver Zephyr Rear Grip — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,270."}
+{"id": "13040000178", "desc": ".357 Revolver Zephyr Stock — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 5,272."}
+{"id": "37190400001", "desc": ".45 ACP AP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37190300001", "desc": ".45 ACP FMJ — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37190100001", "desc": ".45 ACP HS — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 1, Weight: 0.01 kg."}
+{"id": "37190200001", "desc": ".45 ACP JHP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37190000001", "desc": ".45 ACP RIP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 0, Weight: 0.01 kg."}
+{"id": "37230400001", "desc": ".50 AE FMJ — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37230200001", "desc": ".50 AE HP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37230300001", "desc": ".50 AE JHP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "13040000132", "desc": "1014 Collapsible Stock (Extended) — Attachment in Delta Force. Weight: 0.54 kg, Size: 1×2, Reference Price: 25,403."}
+{"id": "13040000133", "desc": "1014 Collapsible Stock (Folded) — Attachment in Delta Force. Weight: 0.61 kg, Size: 1×2, Reference Price: 25,467."}
+{"id": "13040000134", "desc": "1014 Fixed Stock — Attachment in Delta Force. Weight: 0.61 kg, Size: 1×2, Reference Price: 17,308."}
+{"id": "37250100001", "desc": "12 Gauge 7mm Buckshot — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 1, Weight: 0.05 kg."}
+{"id": "37250000001", "desc": "12 Gauge 8.5mm Buckshot — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 0, Weight: 0.05 kg."}
+{"id": "37250300001", "desc": "12 Gauge Flechette — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 3, Weight: 0.05 kg."}
+{"id": "37250400002", "desc": "12 Gauge Slug AP-20 — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 4, Weight: 0.05 kg."}
+{"id": "37250300002", "desc": "12 Gauge Slug FTX — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 3, Weight: 0.05 kg."}
+{"id": "37250200002", "desc": "12 Gauge Slug GT — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 2, Weight: 0.05 kg."}
+{"id": "37250000002", "desc": "12 Gauge Slug RIP — Ammo in Delta Force. Stack Size: 20, Armor Penetration Level: 0, Weight: 0.05 kg."}
+{"id": "37160400002", "desc": "12.7x55mm PD12 — Ammo in Delta Force. A cartridge with two bullet tips, capable of dealing substantial blunt damage even if it cannot penetrate armor…"}
+{"id": "37160400001", "desc": "12.7x55mm PS12 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37160300001", "desc": "12.7x55mm PS12A — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37160500001", "desc": "12.7x55mm PS12B — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "13110000072", "desc": "1P-29 Russian 3x Sight — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 25,725."}
+{"id": "13110000057", "desc": "3/7 Adjustable Scope — Attachment in Delta Force. Weight: 1.41 kg, Size: 1×2, Reference Price: 44,484."}
+{"id": "11080003002", "desc": "3H Tactical Backpack — Gear in Delta Force. A modular design providing flexible storage, ideal for complex tactical missions. Offers 18 storage slots…"}
+{"id": "37260500001", "desc": "4.6x30mm AP SX — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37260400001", "desc": "4.6x30mm FMJ SX — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37260300001", "desc": "4.6x30mm Subsonic SX — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "13040000112", "desc": "416 Light Stock — Attachment in Delta Force. Weight: 0.51 kg, Size: 1×2, Reference Price: 19,269."}
+{"id": "13030000109", "desc": "416 Practical Rear Grip — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 3,210."}
+{"id": "13040000113", "desc": "416 Stable Stock — Attachment in Delta Force. Weight: 0.59 kg, Size: 1×2, Reference Price: 19,199."}
+{"id": "13040000111", "desc": "416-C Collapsible Stock — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×1, Reference Price: 35,666."}
+{"id": "37120500001", "desc": "5.45x39mm BS — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37120400001", "desc": "5.45x39mm BT — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37120100001", "desc": "5.45x39mm PRS — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 1, Weight: 0.01 kg."}
+{"id": "37120300001", "desc": "5.45x39mm PS — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37120200001", "desc": "5.45x39mm T — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "13120000036", "desc": "5.56x45 30-Round Aluminum Mag — Attachment in Delta Force. Weight: 0.19 kg, Size: 2×1, Reference Price: 3,209."}
+{"id": "13120000030", "desc": "5.56x45 30-Round Polymer Mag — Attachment in Delta Force. Weight: 0.25 kg, Size: 2×1, Reference Price: 4,604."}
+{"id": "37100200001", "desc": "5.56x45mm FMJ — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37100300001", "desc": "5.56x45mm M855 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37100400001", "desc": "5.56x45mm M855A1 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37100500001", "desc": "5.56x45mm M995 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37100100001", "desc": "5.56x45mm RRLP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 1, Weight: 0.01 kg."}
+{"id": "37210300001", "desc": "5.7x28mm L191 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37210000001", "desc": "5.7x28mm R37.F — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 0, Weight: 0.01 kg."}
+{"id": "37210500001", "desc": "5.7x28mm SS190 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37210400001", "desc": "5.7x28mm SS193 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37210200001", "desc": "5.7x28mm SS197SR — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37210100001", "desc": "5.7x28mm SS198LF — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 1, Weight: 0.01 kg."}
+{"id": "13120000329", "desc": "5.8 Newtype 30-Round Mag — Attachment in Delta Force. Weight: 0.1 kg, Size: 2×1, Reference Price: 6,606."}
+{"id": "13120000258", "desc": "5.8 Newtype 60-Round Drum Mag — Attachment in Delta Force. Weight: 0.4 kg, Size: 2×2, Reference Price: 16,499."}
+{"id": "37130400001", "desc": "5.8x42mm DBP10 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37130200001", "desc": "5.8x42mm DBP87 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37130500001", "desc": "5.8x42mm DVC12 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37130300001", "desc": "5.8x42mm DVP88 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37150600001", "desc": "6.8x51mm AP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 6, Weight: 0.01 kg."}
+{"id": "37150400001", "desc": "6.8x51mm FMJ — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37150500001", "desc": "6.8x51mm Hybrid — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "13110000070", "desc": "6/12 Expert Sniper Scope — Attachment in Delta Force. Weight: 1.42 kg, Size: 1×2, Reference Price: 44,604."}
+{"id": "37110500001", "desc": "7.62x39mm AP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37110400001", "desc": "7.62x39mm BP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37110100001", "desc": "7.62x39mm LP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 1, Weight: 0.01 kg."}
+{"id": "37110300001", "desc": "7.62x39mm PS — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37110200001", "desc": "7.62x39mm T45M — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37170300001", "desc": "7.62x51mm BPZ — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37170600001", "desc": "7.62x51mm M61 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 6, Weight: 0.01 kg."}
+{"id": "37170500001", "desc": "7.62x51mm M62 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37170400001", "desc": "7.62x51mm M80 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37180500001", "desc": "7.62x54R BT — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37180400001", "desc": "7.62x54R LPS — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37180600001", "desc": "7.62x54R SNB — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 6, Weight: 0.01 kg."}
+{"id": "37180300001", "desc": "7.62x54R T46M — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "18070000006", "desc": "93R — Weapon in Delta Force. The 93R pistol is an Italian-made 9x19mm handgun capable of three-round bursts, known for its high burst damage and…"}
+{"id": "13120000298", "desc": "93R 18-Round Mag — Attachment in Delta Force. Weight: 0.13 kg, Size: 1×1, Reference Price: 3,386."}
+{"id": "13120000299", "desc": "93R 24-Round Mag — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 4,442."}
+{"id": "13020000467", "desc": "93R Long Range Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 5,968."}
+{"id": "13020000465", "desc": "93R Practical Heavy Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 3,397."}
+{"id": "13020000466", "desc": "93R Practical Light Barrel — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 3,381."}
+{"id": "13020000464", "desc": "93R Practical Long Barrel — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 3,383."}
+{"id": "13020000508", "desc": "93R Tactical Barrel — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×2, Reference Price: 5,918."}
+{"id": "13220000001", "desc": "95 Longbow Platform Kit — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 16,432."}
+{"id": "15080050010", "desc": "999.9 Gold Bar — Collectible in Delta Force. An entire bar of gold, worth quite a fortune. Weight: 4.25 kg, Size: 2×1, Reference Price: 351,478."}
+{"id": "15080050111", "desc": "9V Battery — Collectible in Delta Force. Rated at 9 volts, this is also known as a \"transistor battery.\". Weight: 0.1 kg, Size: 1×1, Reference Price…"}
+{"id": "37200300001", "desc": "9x19mm AP6.3 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37200400001", "desc": "9x19mm PBP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "37200100001", "desc": "9x19mm PSO — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 1, Weight: 0.01 kg."}
+{"id": "37200200001", "desc": "9x19mm Pst — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 2, Weight: 0.01 kg."}
+{"id": "37200000001", "desc": "9x19mm RIP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 0, Weight: 0.01 kg."}
+{"id": "37140500001", "desc": "9x39mm BP — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 5, Weight: 0.01 kg."}
+{"id": "37140300001", "desc": "9x39mm SP5 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 3, Weight: 0.01 kg."}
+{"id": "37140400001", "desc": "9x39mm SP6 — Ammo in Delta Force. Stack Size: 60, Armor Penetration Level: 4, Weight: 0.01 kg."}
+{"id": "15080050093", "desc": "Ace Staff Trophy — Collectible in Delta Force. A symbol of Haavk's outstanding staff, those who receive it keep it by their side until the last moment of…"}
+{"id": "13110000089", "desc": "ACOG Precision 6x Scope — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 17,783."}
+{"id": "11050006001", "desc": "Adamantine Vest — Gear in Delta Force. Ahsarah's strongest armor. Meets ballistic standards Lv.6, but severely affects movement speed and handling…"}
+{"id": "13130000208", "desc": "Advanced Multi-Caliber Suppressor — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 35,486."}
+{"id": "15080040005", "desc": "African Wood Sculpture — Collectible in Delta Force. A unique work of art that showcases the charm of African culture with delicate carving. Weight: 1.4…"}
+{"id": "15080050022", "desc": "Ahsarah Entertainment Monthly — Collectible in Delta Force. Bringing readers joy and relaxation with the latest entertainment scoops from the Ahsarah…"}
+{"id": "15080050021", "desc": "Ahsarah Fashion Weekly — Collectible in Delta Force. Featuring the fashion styles of the Ahsarah region, it gives readers a unique aesthetic experience…"}
+{"id": "15040010014", "desc": "Ahsarah Glamour Hookah — Collectible in Delta Force. A hookah adorned with intricate decorations used by early Ahsarah royalty. Weight: 0.72 kg, Size…"}
+{"id": "15080050064", "desc": "Ahsarah Guard Confidential Files — Collectible in Delta Force. A rough paper file folder documenting information on the Ahsarah Guard, likely to contain…"}
+{"id": "15080050020", "desc": "Ahsarah News Weekly — Collectible in Delta Force. A magazine rich in content and closely related to people's livelihood, focusing on the current affairs…"}
+{"id": "15080050017", "desc": "Ahsarah Specialty Ceramics — Collectible in Delta Force. Special ceramics that embody the essence of ancient Ahsarah culture, brimming with endless…"}
+{"id": "15080050016", "desc": "Ahsarah Specialty Flask — Collectible in Delta Force. The wine pot that was the battlefield companion of the legendary Ahsarah general. It contains fine…"}
+{"id": "15080050015", "desc": "Ahsarah Specialty Wine Cup — Collectible in Delta Force. A special wine cup that has witnessed the endless battles and brave loyalty of Ahsarah warriors…"}
+{"id": "15030010018", "desc": "Air-Cooled Heat Sink — Collectible in Delta Force. Electronic product. Provides cooling for integrated circuits in computers. Weight: 0.4 kg, Size: 1×1…"}
+{"id": "13040000172", "desc": "AK End Cap — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 1,614."}
+{"id": "13130000176", "desc": "AK Bravefire Suppressor — Attachment in Delta Force. Weight: 0.8 kg, Size: 1×1, Reference Price: 23,623."}
+{"id": "13040000117", "desc": "AK Folding Stock — Attachment in Delta Force. Weight: 0.53 kg, Size: 1×2, Reference Price: 11,776."}
+{"id": "13030000167", "desc": "AK Heavy Tower Grip — Attachment in Delta Force. Weight: 0.22 kg, Size: 1×1, Reference Price: 17,765."}
+{"id": "13030000121", "desc": "AK Marksman Rear Grip — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 9,463."}
+{"id": "13040000116", "desc": "AK Polymer Stock — Attachment in Delta Force. Weight: 0.48 kg, Size: 1×2, Reference Price: 3,213."}
+{"id": "13130000175", "desc": "AK Practical Compensator — Attachment in Delta Force. Weight: 0.41 kg, Size: 1×1, Reference Price: 9,456."}
+{"id": "13030000117", "desc": "AK Practical Rear Grip — Attachment in Delta Force. Weight: 0.13 kg, Size: 1×1, Reference Price: 9,417."}
+{"id": "13030000168", "desc": "AK Skeleton Grip — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 35,659."}
+{"id": "13040000119", "desc": "AK Skeleton Stock — Attachment in Delta Force. Weight: 0.43 kg, Size: 1×2, Reference Price: 3,204."}
+{"id": "13030000122", "desc": "AK Stable Rear Grip — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×1, Reference Price: 9,410."}
+{"id": "13240000006", "desc": "AK Stock Recoil Pad — Attachment in Delta Force. Weight: 0.44 kg, Size: 1×1, Reference Price: 2,069."}
+{"id": "13120000246", "desc": "AK-12 30-Round Polymer Mag — Attachment in Delta Force. Weight: 0.25 kg, Size: 2×1, Reference Price: 3,229."}
+{"id": "18010000018", "desc": "AK-12 Assault Rifle — Weapon in Delta Force. The AK-12 is a 5.45x39mm caliber assault rifle made in Russia. Its modular design, high accuracy, and…"}
+{"id": "13170000008", "desc": "AK-12 Bipod — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 8,792."}
+{"id": "13020000370", "desc": "AK-12 Elite Bipod Long Barrel — Attachment in Delta Force. Weight: 0.38 kg, Size: 1×2, Reference Price: 25,583."}
+{"id": "13020000369", "desc": "AK-12 Frontline Long Barrel — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 25,574."}
+{"id": "13040000182", "desc": "AK-19 Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 19,147."}
+{"id": "13120000243", "desc": "AK545 30-Round Mag — Attachment in Delta Force. Weight: 0.17 kg, Size: 2×1, Reference Price: 3,202."}
+{"id": "13120000240", "desc": "AK762 30-Round Bakelite Mag — Attachment in Delta Force. Weight: 0.17 kg, Size: 2×1, Reference Price: 6,606."}
+{"id": "13120000313", "desc": "AKM 30-Round Polymer Mag — Attachment in Delta Force. Weight: 0.13 kg, Size: 1×1, Reference Price: 3,215."}
+{"id": "13120000239", "desc": "AKM 40-Round Extended Mag — Attachment in Delta Force. Weight: 0.17 kg, Size: 2×1, Reference Price: 19,157."}
+{"id": "13120000241", "desc": "AKM 70-Round Large Drum Mag — Attachment in Delta Force. Weight: 0.32 kg, Size: 2×2, Reference Price: 25,576."}
+{"id": "18010000006", "desc": "AKM Assault Rifle — Weapon in Delta Force. A classic 7.62x39mm caliber fully-automatic assault rifle that has strong firepower but requires skill to use…"}
+{"id": "13020000490", "desc": "AKM Beaver Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 25,507."}
+{"id": "13020000491", "desc": "AKM Beaver Long Barrel Combo — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 25,507."}
+{"id": "13020000355", "desc": "AKM Performance Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 29,285."}
+{"id": "13020000357", "desc": "AKM Practical Long Barrel Combo — Attachment in Delta Force. Weight: 0.36 kg, Size: 1×2, Reference Price: 14,576."}
+{"id": "13020000356", "desc": "AKM Practical Standard Barrel Combo — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 14,582."}
+{"id": "13020000358", "desc": "AKM Transcendent Long Barrel Combo — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×2, Reference Price: 25,501."}
+{"id": "13120000327", "desc": "AKS-74 30-Round Mag — Attachment in Delta Force. Weight: 0.1 kg, Size: 2×1, Reference Price: 3,202."}
+{"id": "13120000245", "desc": "AKS-74 45-Round Extended Mag — Attachment in Delta Force. Weight: 0.19 kg, Size: 2×1, Reference Price: 19,153."}
+{"id": "13120000247", "desc": "AKS-74 75-Round Polymer Drum Mag — Attachment in Delta Force. Weight: 0.31 kg, Size: 2×2, Reference Price: 25,616."}
+{"id": "18010000010", "desc": "AKS-74 Assault Rifle — Weapon in Delta Force. The AKS-74 Assault Rifle is a 5.45x39mm caliber short assault rifle that was first fielded in 1979 and is…"}
+{"id": "13050000328", "desc": "AKS-74 Lower Rail Handguard — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 8,077."}
+{"id": "13400000002", "desc": "AKS-74 Upper Rail Handguard — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 8,048."}
+{"id": "11080005001", "desc": "ALS Load System — Gear in Delta Force. A brand-new load system that offers excellent weight distribution and comfort, ideal for long, high-intensity…"}
+{"id": "15020010027", "desc": "Analog Thermometer — Collectible in Delta Force. Tool & material. This analog thermometer provides a simulation system for data collection. Weight: 0.3…"}
+{"id": "15080050011", "desc": "Ancient Pirate Telescope — Collectible in Delta Force. A telescope with a sense of age. According to Ahsarah local records, this type of telescope was…"}
+{"id": "15040010003", "desc": "Ancient Sphinx Statue — Collectible in Delta Force. A small ancient statue created by a famous Ahsarah artist. Weight: 3.2 kg, Size: 2×2, Reference…"}
+{"id": "15020010021", "desc": "Angle Grinder — Collectible in Delta Force. Tool & material. Primarily used to cut, polish, and brush metal and stone materials. Weight: 2.4 kg, Size…"}
+{"id": "13140000026", "desc": "Angled Hand Stop — Attachment in Delta Force. Weight: 0.14 kg, Size: 1×1, Reference Price: 19,138."}
+{"id": "11010003001", "desc": "Anti-Riot Helmet — Gear in Delta Force. Ahsarah Guard's product for assault operations. Slightly affects handling and reduces hearing. Protection Level…"}
+{"id": "15080040003", "desc": "Antler Wall Decoration — Collectible in Delta Force. This intact pair of sharp horns taken from an adult bull is long and slender. Its weight makes those…"}
+{"id": "13110000085", "desc": "AP5000 Reflex Sight — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 5,148."}
+{"id": "15060080001", "desc": "Apple — Collectible in Delta Force. A delicious and nutritious fruit. It is a healthy snack choice rich in vitamins and minerals. Weight: 0.4 kg, Size…"}
+{"id": "13020000347", "desc": null}
+{"id": "13020000349", "desc": "AR Gabriel Long Barrel Combo — Attachment in Delta Force. Weight: 0.38 kg, Size: 1×2, Reference Price: 25,753."}
+{"id": "13030000166", "desc": "AR Heavy Tower Grip — Attachment in Delta Force. Weight: 0.23 kg, Size: 1×1, Reference Price: 17,798."}
+{"id": "13020000351", "desc": "AR Raid Short Barrel Combo — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 25,543."}
+{"id": "13020000173", "desc": "AR SpecOps Integrally Suppressed Combo — Attachment in Delta Force. Weight: 0.36 kg, Size: 1×2, Reference Price: 51,019."}
+{"id": "13020000348", "desc": "AR Standard Barrel Combo — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 4,599."}
+{"id": "13020000350", "desc": "AR Trench Standard Barrel Combo — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 25,623."}
+{"id": "15020040002", "desc": "Aramid Fiber — Collectible in Delta Force. Tool & material. A kind of soft, thin, fluffy, and lustrous fiber. Weight: 1.61 kg, Size: 1×2, Reference…"}
+{"id": "15070010005", "desc": "Architectural Drawing 1 — Collectible in Delta Force. Intel item. An architectural drawing with various markings made by someone. Weight: 0.01 kg, Size…"}
+{"id": "15070010006", "desc": "Architectural Drawing 2 — Collectible in Delta Force. Intel item. An architectural drawing with various markings made by someone. Weight: 0.01 kg, Size…"}
+{"id": "15070010007", "desc": "Architectural Drawing 3 — Collectible in Delta Force. Intel item. An architectural drawing with various markings made by someone. Weight: 0.01 kg, Size…"}
+{"id": "15070010008", "desc": "Architectural Drawing 4 — Collectible in Delta Force. Intel item. An architectural drawing with various markings made by someone. Weight: 0.01 kg, Size…"}
+{"id": "15070010009", "desc": "Architectural Drawing 5 — Collectible in Delta Force. Intel item. An architectural drawing with various markings made by someone. Weight: 0.01 kg, Size…"}
+{"id": "15080050099", "desc": "Armored Vehicle Battery — Collectible in Delta Force. Custom-designed to meet military requirements, these large energy storage batteries provide…"}
+{"id": "15080050062", "desc": "Array Server — Collectible in Delta Force. An array server that integrates multiple hard drives and employs RAID technology to enhance data storage and…"}
+{"id": "18010000037", "desc": "AS Val Assault Rifle — Weapon in Delta Force. A Russian suppressed assault rifle that fires 9x39mm special ammo with powerful penetration. Capacity: 20…"}
+{"id": "13040000194", "desc": null}
+{"id": "13120000260", "desc": "ASh-12 30-Round Extended Mag — Attachment in Delta Force. Weight: 0.2 kg, Size: 2×1, Reference Price: 35,698."}
+{"id": "13020000378", "desc": "ASh-12 Annihilator Precision Long Barrel — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 35,642."}
+{"id": "18010000012", "desc": "ASh-12 Battle Rifle — Weapon in Delta Force. The ASh-12 is a high-caliber bullpup assault rifle that fires 12.7x55mm rifle ammo and is built for…"}
+{"id": "13020000379", "desc": "ASh-12 CQB Short Barrel — Attachment in Delta Force. Weight: 0.23 kg, Size: 1×2, Reference Price: 35,591."}
+{"id": "13040000121", "desc": "ASh-12 Skeleton Stock — Attachment in Delta Force. Weight: 0.52 kg, Size: 1×2, Reference Price: 71,534."}
+{"id": "13040000122", "desc": "ASh-12 Sniper Stock — Attachment in Delta Force. Weight: 0.55 kg, Size: 1×2, Reference Price: 71,488."}
+{"id": "15030040007", "desc": "ASOS Motherboard — Collectible in Delta Force. Electronic product. One of the most basic yet most important components of a computer. Motherboards are…"}
+{"id": "11080002003", "desc": "Assault Tactical Backpack — Gear in Delta Force. A large backpack designed for assault missions, made from bulletproof materials with extra storage for…"}
+{"id": "11070004001", "desc": "Assault Tactical Vest — Gear in Delta Force. Provides full-body protection and a versatile mounting system, with exceptional ammo carrying capacity. A…"}
+{"id": "11050004002", "desc": "Assault Vest — Gear in Delta Force. Fitted with Haavk's new bulletproof technology, it meets ballistic standards Lv.4 but drastically reduces movement…"}
+{"id": "15050200010", "desc": "Assembly Workshop 2F Lab — Keycard in Delta Force. Found at 2 locations. Used to open the Assembly Workshop 2F Lab. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15030010008", "desc": "Audio Player — Collectible in Delta Force. Electronic product. A small and lightweight portable audio player. Weight: 0.18 kg, Size: 1×1, Reference…"}
+{"id": "13120000256", "desc": "AUG 60-Round Drum Mag — Attachment in Delta Force. Weight: 0.19 kg, Size: 2×1, Reference Price: 25,534."}
+{"id": "18010000015", "desc": "AUG Assault Rifle — Weapon in Delta Force. This 5.56x45mm caliber bullpup assault rifle is designed for precision and stability, ideal for medium to…"}
+{"id": "13170000005", "desc": "AUG Bipod — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 9,073."}
+{"id": "13020000366", "desc": "AUG Dawn Zero Integrally Suppressed Barrel — Attachment in Delta Force. Weight: 0.41 kg, Size: 1×2, Reference Price: 51,299."}
+{"id": "13020000367", "desc": "AUG Elite Bipod Long Barrel — Attachment in Delta Force. Weight: 0.41 kg, Size: 1×2, Reference Price: 25,691."}
+{"id": "13020000364", "desc": "AUG Practical Integral 3x Scope Barrel — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×2, Reference Price: 21,912."}
+{"id": "13240000005", "desc": null}
+{"id": "13020000365", "desc": "AUG Vanguard Standard Barrel — Attachment in Delta Force. Weight: 0.37 kg, Size: 1×2, Reference Price: 25,649."}
+{"id": "15080050058", "desc": "Automated External Defibrillator — Collectible in Delta Force. A portable medical device that is designed for cardiac arrest emergencies. It is easy to…"}
+{"id": "13170000001", "desc": "AWM Bipod — Attachment in Delta Force. Weight: 0.75 kg, Size: 1×2, Reference Price: 20,324."}
+{"id": "13200000006", "desc": "AWM M-Lok Kit — Attachment in Delta Force. Weight: 0.19 kg, Size: 1×1, Reference Price: 20,292."}
+{"id": "13020000441", "desc": "AWM Skyline Long Barrel — Attachment in Delta Force. Weight: 0.43 kg, Size: 1×2, Reference Price: 35,567."}
+{"id": "18060000011", "desc": "AWM Sniper Rifle — Weapon in Delta Force. The AWM is a British-made sniper rifle that uses .338 Lapua Magnum ammo. It offers superb accuracy and range…"}
+{"id": "13340000001", "desc": "Badger Small Mag Assist (Black) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000005", "desc": "Badger Small Mag Assist (Green) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000009", "desc": "Badger Small Mag Assist (Sand) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "15080050078", "desc": "Bagged Coffee Beans — Collectible in Delta Force. Selected premium Ahsarah coffee beans, sealed packaging for preservation, suitable for hand brewing or…"}
+{"id": "13330000002", "desc": "Balanced Grip Base — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 17,765."}
+{"id": "15050100004", "desc": "Barracks Storage Room — Keycard in Delta Force. Found at 1 location. Used to open the Barracks Storage Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15080050023", "desc": "Basic Ammo Production Parts — Collectible in Delta Force. Tool & material. A sophisticated set of components for producing reliable and efficient basic…"}
+{"id": "11070001004", "desc": "Basic Chest Rig — Gear in Delta Force. A minimalist design focused on carrying ammo and first aid supplies. Suitable for short missions or emergencies…"}
+{"id": "15020010034", "desc": "Basic Fuel — Collectible in Delta Force. Energy fuel. Provides a source of fire, known for its low cost and accessibility. Weight: 0.45 kg, Size: 1×1…"}
+{"id": "14020000001", "desc": "Basic Injector — Consumable in Delta Force. 30 Durability. Recovers 5 HP per second. Activation Time: 3.5s. Weight: 0.1 kg, Size: 1×1, Reference Price…"}
+{"id": "11070003001", "desc": "Basic Portable Chest Rig — Gear in Delta Force. A lightweight ammo carrying system designed to hold multiple mags for fast reloads, perfect for…"}
+{"id": "15060080003", "desc": "Basic Protein Powder — Collectible in Delta Force. A high-protein nutritional supplement that helps build muscle and recover strength. Weight: 2.3 kg…"}
+{"id": "11050002001", "desc": "Basic Stab Vest — Gear in Delta Force. Ahsarah standard-issue. Blocks Ammo Lv.1. Protection Level: 2, Durability: 30, Weight: 2.74 kg."}
+{"id": "13130000167", "desc": "Bastion Horizontal Compensator — Attachment in Delta Force. Weight: 0.57 kg, Size: 1×1, Reference Price: 33,132."}
+{"id": "15080050040", "desc": "Battle Tank Model — Collectible in Delta Force. A battle tank model with exquisite details that is meticulously crafted to scale. The turret and body can…"}
+{"id": "13130000174", "desc": "Bell Mouth Flash Hider — Attachment in Delta Force. Weight: 0.67 kg, Size: 1×1, Reference Price: 4,845."}
+{"id": "15050400015", "desc": "Biological Data Server Room — Keycard in Delta Force. Found at 2 locations. Used to open the Biological Data Server Room. Uses: 20, Weight: 0.05 kg…"}
+{"id": "13130000178", "desc": "Birdcage Flash Hider — Attachment in Delta Force. Weight: 0.71 kg, Size: 1×1, Reference Price: 4,807."}
+{"id": "13120000282", "desc": "Bizon 64-Round Helical Mag — Attachment in Delta Force. Weight: 0.19 kg, Size: 2×1, Reference Price: 6,023."}
+{"id": "13020000439", "desc": "Bizon Blade Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 12,223."}
+{"id": "13050000285", "desc": "Bizon Carbon Fiber Handguard — Attachment in Delta Force. Weight: 0.22 kg, Size: 1×2, Reference Price: 8,026."}
+{"id": "13020000437", "desc": "Bizon Paratrooper Short Barrel — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 12,232."}
+{"id": "13020000438", "desc": "Bizon Striker Standard Barrel — Attachment in Delta Force. Weight: 0.27 kg, Size: 1×2, Reference Price: 12,267."}
+{"id": "18020000005", "desc": "Bizon Submachine Gun — Weapon in Delta Force. The PP-19 Bizon is a Russian submachine gun. It fires 9x19mm rounds and is notable for its unique helical…"}
+{"id": "15050200004", "desc": "Black Chamber Server Room — Keycard in Delta Force. Found at 1 location. Used to open the Black Chamber Server Room. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "11070005003", "desc": "Black Hawk Field Chest Rig — Gear in Delta Force. A lightweight and durable design that's ideal for field operations, with ample storage space and…"}
+{"id": "15030050008", "desc": "Blade Server — Collectible in Delta Force. Electronic product. A military-grade data processing device that provides powerful computing power and…"}
+{"id": "13130000159", "desc": "Blazing Fire Suppressor — Attachment in Delta Force. Weight: 0.5 kg, Size: 1×1, Reference Price: 19,153."}
+{"id": "15060040002", "desc": "Blood Pressure Meter — Collectible in Delta Force. Medical item. Used to measure blood pressure. It is also called a sphygmomanometer. It collects deep…"}
+{"id": "15080050065", "desc": "Bone Saw — Collectible in Delta Force. Medical item, the serrated edge is made of material suitable for cutting bones, reducing unnecessary pain during…"}
+{"id": "11010001003", "desc": "Boonie Hat — Gear in Delta Force. Provides stealth and sunshade. Protection Level: 1, Durability: 10, Weight: 0.37 kg."}
+{"id": "14050000002", "desc": "Bottled Antibiotics — Consumable in Delta Force. Relieves pain for 240s and removes the visual interference from pain and fractures. Up to 3 uses…"}
+{"id": "15080050086", "desc": "Box of Nails — Collectible in Delta Force. An indispensable hardware accessory in life, available at hardware stores in the Ahsarah region. Weight: 0.5…"}
+{"id": "15080050112", "desc": "Boxed Candles — Collectible in Delta Force. Light a candle to illuminate others. Weight: 0.4 kg, Size: 2×2, Reference Price: 2,154."}
+{"id": "15080050071", "desc": "Boxed Drip Coffee — Collectible in Delta Force. A portable coffee brewing product. Uses disposable filter paper packaging for convenient and quick…"}
+{"id": "15020010016", "desc": "Bucket of Paint — Collectible in Delta Force. Tool & material. A coating material of chemical mixture that covers the surface of an object for…"}
+{"id": "15080040004", "desc": "Charm - Bullet — Collectible in Delta Force. Bullets symbolize war and the end of life, now meticulously crafted into a necklace. Weight: 0.01 kg, Size…"}
+{"id": "15050200006", "desc": "Buoyancy Lab Infirmary — Keycard in Delta Force. Found at 1 location. Used to open the Buoyancy Lab Infirmary. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15040050002", "desc": "Bust of Claudius — Collectible in Delta Force. A bust created by a famous Ahsarah artist, inspired by the Roman Emperor Claudius. Weight: 1.09 kg, Size…"}
+{"id": "15030040002", "desc": "Camera — Collectible in Delta Force. Electronic product. A video input device widely used for video conferences, long-range medical treatments, and…"}
+{"id": "11080002004", "desc": "Camping Backpack — Gear in Delta Force. A backpack designed for long missions, capable of carrying tents and camping gear, ideal for wilderness survival…"}
+{"id": "15060080013", "desc": "Canned Ration — Collectible in Delta Force. A kind of military food that has the characteristics of high solid content, high vacuum, long shelf life…"}
+{"id": "15020050007", "desc": "Capacitor — Collectible in Delta Force. Tool & material. A component used in almost all electronic products. Weight: 0.1 kg, Size: 1×1, Reference Price…"}
+{"id": "15080050068", "desc": "Capsule Coffee Machine Set — Collectible in Delta Force. A convenient household coffee machine that brews with coffee capsules at the touch of a button…"}
+{"id": "18010000031", "desc": "CAR-15 Assault Rifle — Weapon in Delta Force. The CAR-15 rifle is a generic term for shortened carbine versions of the AR rifle that fires 5.56x45mm…"}
+{"id": "13160000013", "desc": "CAR-15 Bound Flashlight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 2,294."}
+{"id": "15080050046", "desc": "Card - 10 — Collectible in Delta Force. One of the cards from the deck. The card is a 10. Weight: 0 kg, Size: 1×1, Reference Price: 910."}
+{"id": "15080050054", "desc": "Card - 2 — Collectible in Delta Force. One of the cards from the deck. The card is a 2. Weight: 0 kg, Size: 1×1, Reference Price: 902."}
+{"id": "15080050053", "desc": "Card - 3 — Collectible in Delta Force. One of the cards from the deck. The card is a 3. Weight: 0 kg, Size: 1×1, Reference Price: 903."}
+{"id": "15080050052", "desc": "Card - 4 — Collectible in Delta Force. One of the cards from the deck. The card is a 4. Weight: 0 kg, Size: 1×1, Reference Price: 904."}
+{"id": "15080050051", "desc": "Card - 5 — Collectible in Delta Force. One of the cards from the deck. The card is a 5. Weight: 0 kg, Size: 1×1, Reference Price: 905."}
+{"id": "15080050050", "desc": "Card - 6 — Collectible in Delta Force. One of the cards from the deck. The card is a 6. Weight: 0 kg, Size: 1×1, Reference Price: 906."}
+{"id": "15080050049", "desc": "Card - 7 — Collectible in Delta Force. One of the cards from the deck. The card is a 7. Weight: 0 kg, Size: 1×1, Reference Price: 907."}
+{"id": "15080050048", "desc": "Card - 8 — Collectible in Delta Force. One of the cards from the deck. The card is an 8. Weight: 0 kg, Size: 1×1, Reference Price: 908."}
+{"id": "15080050047", "desc": "Card - 9 — Collectible in Delta Force. One of the cards from the deck. The card is a 9. Weight: 0 kg, Size: 1×1, Reference Price: 909."}
+{"id": "15080050055", "desc": "Card - Ace — Collectible in Delta Force. One of the cards from the deck. The card is an Ace. Weight: 0 kg, Size: 1×1, Reference Price: 901."}
+{"id": "15080050060", "desc": "Card - Big Joker — Collectible in Delta Force. One of the cards from the deck. The card is a Big Joker. Weight: 0 kg, Size: 1×1, Reference Price: 1,000."}
+{"id": "15040010007", "desc": "Card - Jack — Collectible in Delta Force. Miscellaneous. Jack in playing cards. It stands for knight/guard. Weight: 0 kg, Size: 1×1, Reference Price: 912."}
+{"id": "15040010009", "desc": "Card - King — Collectible in Delta Force. Miscellaneous. The King in playing cards. Weight: 0 kg, Size: 1×1, Reference Price: 913."}
+{"id": "15040010008", "desc": "Card - Queen — Collectible in Delta Force. Miscellaneous. The Queen in playing cards. Weight: 0 kg, Size: 1×1, Reference Price: 912."}
+{"id": "15080050059", "desc": "Card - Little Joker — Collectible in Delta Force. One of the cards from the deck. The card is a Little Joker. Weight: 0 kg, Size: 1×1, Reference Price…"}
+{"id": "13040000167", "desc": "Cardinal Advanced Combat Stock — Attachment in Delta Force. Weight: 0.59 kg, Size: 1×2, Reference Price: 25,533."}
+{"id": "13040000107", "desc": "Cardinal Stable Stock — Attachment in Delta Force. Weight: 0.58 kg, Size: 1×2, Reference Price: 19,162."}
+{"id": "15050300025", "desc": "Cargo Plane Conference Room — Keycard in Delta Force. Found at 1 location. Used to open the Cargo Plane Conference Room. Uses: 20, Weight: 0.05 kg, Size…"}
+{"id": "14040000001", "desc": "CAT Tourniquet — Consumable in Delta Force. Heals 1 wound upon use with up to 4 uses. Activation Time: 2.5s. Weight: 0.1 kg, Size: 1×1, Reference Price…"}
+{"id": "15030040013", "desc": "Cell Phone — Collectible in Delta Force. Electronic product. A common mobile communication device that offers great computing power and communication…"}
+{"id": "15050100003", "desc": "Cement Plant - Dormitory 201 — Keycard in Delta Force. Found at 2 locations. Used to open the Cement Plant - Dormitory 201. Uses: 20, Weight: 0.05 kg…"}
+{"id": "15050100001", "desc": "Cement Plant Office — Keycard in Delta Force. Found at 1 location. Used to open the Cement Plant Office. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050200008", "desc": "Central Command 3F Room — Keycard in Delta Force. Found at 1 location. Used to open the Central Command 3F Room. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050100007", "desc": "Central VIP Room — Keycard in Delta Force. Found at 1 location. Used to open the Central VIP Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050400013", "desc": "CEO Conference Room — Keycard in Delta Force. Found at 4 locations. Used to open the CEO Conference Room. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050200001", "desc": "CEO Office Reception Room — Keycard in Delta Force. Found at 1 location. Used to open the CEO Office Reception Room. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15020050004", "desc": "Ceramic Armor — Collectible in Delta Force. Tool & material. Sturdy and durable. Protects personnel from shrapnel and other hazardous substances. USAGE…"}
+{"id": "15080050043", "desc": "Ceremony Dagger — Collectible in Delta Force. A dagger is exclusively used for military ceremonies, with a blade inlaid with an honorary badge…"}
+{"id": "15050300029", "desc": "Checkpoint Storeroom — Keycard in Delta Force. Found at 1 location. Used to open the Checkpoint Storeroom. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "18010000038", "desc": "CI-19 Assault Rifle — Weapon in Delta Force. A novel eastern assault rifle featuring new ideas, technologies, structures, materials, and craftsmanship…"}
+{"id": "13390000002", "desc": "CI-19 Newtype Rapid Gas Block — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 38,506."}
+{"id": "13020000513", "desc": "Newtype Leopard Short Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 19,184."}
+{"id": "13020000514", "desc": "Newtype Hadal Tactical Long Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 19,184."}
+{"id": "13390000003", "desc": "CI-19 Newtype Stable Gas Block — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 19,253."}
+{"id": "15080050085", "desc": "Claw Hammer — Collectible in Delta Force. One end is a hammerhead, and the other end is claw-shaped, commonly used for hammering, nail pulling, or prying…"}
+{"id": "15080050061", "desc": "Cloud Storage Array — Collectible in Delta Force. A next-generation data storage device integrated with advanced disk array technology, designed to meet…"}
+{"id": "13110000064", "desc": "Cobra Accuracy Sight — Attachment in Delta Force. Weight: 0.7 kg, Size: 1×1, Reference Price: 10,223."}
+{"id": "15060080014", "desc": "Coffee — Collectible in Delta Force. Coffee. A drink made from roasted and ground coffee beans. Weight: 0.27 kg, Size: 1×1, Reference Price: 72,533."}
+{"id": "15060080011", "desc": "Coke — Collectible in Delta Force. Dark-brown soft drink, sweet and caffeinated. Weight: 0.27 kg, Size: 1×1, Reference Price: 9,473."}
+{"id": "13140000038", "desc": "Collapsible Bipod Grip — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 19,260."}
+{"id": "13110000063", "desc": "Combat Red Dot Sight — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 10,239."}
+{"id": "13140000024", "desc": "Competition Hand Stop — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 19,287."}
+{"id": "15020050002", "desc": "Cordless Portable Drill — Collectible in Delta Force. Tool & material. A lightweight and cordless drill that can drill and screw easily using a…"}
+{"id": "13040000009", "desc": "Core Rail Stock — Attachment in Delta Force. Weight: 0.47 kg, Size: 1×2, Reference Price: 9,431."}
+{"id": "15020010026", "desc": "Corrugated Tube — Collectible in Delta Force. Tool & material. A soft pressure-resistant tube that is flexible, light, and resistant to corrosion…"}
+{"id": "13340000003", "desc": "Coyote Medium P. Mag Assist (Black) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000007", "desc": "Coyote Medium P. Mag Assist (Green) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000011", "desc": "Coyote Medium P. Mag Assist (Sand) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "15030040003", "desc": "CPU — Collectible in Delta Force. Electronic product. The central processor, which is the heart of computing and control of a computer system, manages…"}
+{"id": "13140000040", "desc": "CR Prism Hand Stop — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 19,305."}
+{"id": "15060080007", "desc": "Crispy Noodles — Collectible in Delta Force. These crispy noodles are a local favorite, especially among children. They're crushed and eaten with…"}
+{"id": "15080040002", "desc": "Cutlass — Collectible in Delta Force. This short scimitar is a pirate's best companion. Its sharp heavy blade makes it extremely suitable for melee…"}
+{"id": "11070002003", "desc": "D01 Light Chest Rig — Gear in Delta Force. A modular design with excellent durability, suitable for fast raids or light combat. Comfortable and…"}
+{"id": "11080004003", "desc": "D2 Tactical Climbing Bag — Gear in Delta Force. A climbing bag designed for tactical operations, featuring additional gear mounting options, ideal for…"}
+{"id": "11080005003", "desc": "D3 Tactical Climbing Bag — Gear in Delta Force. Features an advanced modular design, perfect for gear management and rapid deployment in complex…"}
+{"id": "11010004001", "desc": "D6 Tactical Helmet — Gear in Delta Force. A tactical helmet that meets ballistic standards Lv.4. Significantly affects handling and greatly reduces…"}
+{"id": "11080006003", "desc": "D7 Tactical Backpack — Gear in Delta Force. An advanced tactical backpack for multiple gear, ideal for operations requiring high flexibility. Offers 35…"}
+{"id": "15040050003", "desc": "Damaged Thermal Imager — Collectible in Delta Force. Miscellaneous. A partially damaged military thermal imaging device that uses thermal imaging…"}
+{"id": "15080050012", "desc": "Dancing Girl — Collectible in Delta Force. An exquisite and charming accessory that captures people's attention with its elegant dancing posture and…"}
+{"id": "11070005004", "desc": "DAR Assault Chest Rig — Gear in Delta Force. Designed for assaults, with multiple ammo storage slots and space for tactical gear, ideal for…"}
+{"id": "11010003003", "desc": "DAS Helmet — Gear in Delta Force. DF Squad's standard helmet developed for lightweight needs. Meets ballistic standards Lv.3, but slightly affects…"}
+{"id": "11080003003", "desc": "DASH Tactical Backpack — Gear in Delta Force. The ideal choice for high-intensity missions, specifically designed for quick access, perfect for raids and…"}
+{"id": "15070040001", "desc": "Data: Design Blueprints — Collectible in Delta Force. Intel item. Data: design blueprints. Weight: 0.01 kg, Size: 1×1, Reference Price: 71,384."}
+{"id": "15070050002", "desc": "Data: Military Intel — Collectible in Delta Force. Intel item. Data: military intel. Weight: 0.09 kg, Size: 1×1, Reference Price: 16,942."}
+{"id": "15070040002", "desc": "Data: Trade Documents — Collectible in Delta Force. Intel item. Data: insider intel. Weight: 0.09 kg, Size: 1×1, Reference Price: 7,961."}
+{"id": "13140000042", "desc": "Dawn Angled Flashlight Grip — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 35,578."}
+{"id": "13140000041", "desc": "Daybreak Vertical Flashlight Grip — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 19,158."}
+{"id": "13160000010", "desc": "DBAL-X2 Purple Laser-Light Combo — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 19,160."}
+{"id": "13320000010", "desc": "DD Python Handguard Panel — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "14030000003", "desc": "DEK Field Surgical Kit — Consumable in Delta Force. Removes all debuffs on 1 body part with up to 7 uses. Activation Time: 5s. Weight: 0.7 kg, Size: 1×3…"}
+{"id": "15080050026", "desc": "Delta Force: Black Hawk Down - Team Sabre — Collectible in Delta Force. In the game, you will become a member of the Delta Force, join the battle and…"}
+{"id": "15080050070", "desc": "Delta Force: Black Hawk Down (Disc Ver.) — Collectible in Delta Force. Game disc, special boxed edition released during the anniversary, rare on the…"}
+{"id": "15080050027", "desc": "Delta Force: Task Force Dagger — Collectible in Delta Force. In the game, you will become a member of the Delta Force, join the battle and defeat the…"}
+{"id": "18070000004", "desc": "Desert Eagle — Weapon in Delta Force. A powerful semi-automatic pistol that fires .50 AE rounds. Capacity: 7, Damage: 56, Armor Damage: 53."}
+{"id": "13120000296", "desc": "Desert Eagle 13-Round Mag — Attachment in Delta Force. Weight: 0.15 kg, Size: 2×1, Reference Price: 4,944."}
+{"id": "13020000462", "desc": "Desert Eagle Competition Barrel — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 6,574."}
+{"id": "13030000130", "desc": "Desert Eagle Competition Rear Grip — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 4,941."}
+{"id": "13020000461", "desc": "Desert Eagle Rifled Long Barrel — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 6,593."}
+{"id": "11080001004", "desc": "DG Sports Backpack — Gear in Delta Force. A backpack designed for high-mobility missions, featuring extra ammo slots and balanced weight distribution for…"}
+{"id": "15050300011", "desc": "Diamonds Room — Keycard in Delta Force. Found at 2 locations. Used to open the Diamonds Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "11010004003", "desc": "DICH Training Helmet — Gear in Delta Force. Delta Force's latest technology. Meets ballistic standards Lv.4. The attached tactical headphones…"}
+{"id": "11010005003", "desc": "DICH-1 Tactical Helmet — Gear in Delta Force. Meets ballistic standards Lv.5. Equipped with headphones for better noise reduction and hearing, but…"}
+{"id": "11010006003", "desc": "DICH-9 Heavy Helmet — Gear in Delta Force. DF Squad replaced facial armor with the latest DICH series technology on the tactical helmet and boosted the…"}
+{"id": "15030050006", "desc": "Digital Camera — Collectible in Delta Force. Electronic product. It uses optical imaging principles to form images. Can quickly capture and record clear…"}
+{"id": "14060000007", "desc": "DIY Helmet Repair Kit — Consumable in Delta Force. An in-match repair tool for Lv.3 Gear that can quickly restore helmet durability. Each plate consumes…"}
+{"id": "14060000008", "desc": "DIY Vest Repair Kit — Consumable in Delta Force. An in-match repair tool for Lv.3 Gear that can quickly restore vest durability. Each plate consumes 25…"}
+{"id": "15080010003", "desc": "Djembe — Collectible in Delta Force. Makes a low-pitched sound when struck. Weight: 4.5 kg, Size: 2×1, Reference Price: 3,706."}
+{"id": "15080050056", "desc": "Document Fragment — Collectible in Delta Force. A partial page of a document with some handwritten notes, possibly containing valuable intelligence…"}
+{"id": "11070004003", "desc": "DRC Advanced Recon Chest Rig — Gear in Delta Force. Designed for recon missions. Lightweight with a high degree of concealment, capable of carrying ammo…"}
+{"id": "11010002003", "desc": "DRO Tactical Helmet — Gear in Delta Force. Improved from military helmets, it fits snugly and blocks Ammo Lv.1. Protection Level: 2, Durability: 15…"}
+{"id": "11070003003", "desc": "DSA Tactical Chest Rig — Gear in Delta Force. A highly mobile chest rig optimized for ammo distribution and tactical gear storage, ideal for quick…"}
+{"id": "11050004003", "desc": "DT-AVS Vest — Gear in Delta Force. DF Squad's new ballistic vest. It keeps the abdominal protection design and meets ballistic standards Lv.4, but its…"}
+{"id": "13130000202", "desc": "DTK Muzzle Brake — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 25,597."}
+{"id": "15020010003", "desc": "Duct Tape — Collectible in Delta Force. Tool & material. Made of microfiber. Used to wrap around exposed wires or metal to provide insulation. Weight…"}
+{"id": "15030010007", "desc": "DVD Drive — Collectible in Delta Force. Electronic product. A device that can read DVDs. Weight: 0.6 kg, Size: 1×1, Reference Price: 3,351."}
+{"id": "14050000003", "desc": "DVE Painkiller — Consumable in Delta Force. Relieves pain for 360s and removes the visual interference from pain and fractures. Up to 5 uses. Activation…"}
+{"id": "15040010019", "desc": "E-Type Canister — Collectible in Delta Force. Miscellaneous. Made of new aluminum oxide materials. Oxidation-resistant and corrosion-resistant, with high…"}
+{"id": "15050400009", "desc": "East Town Residential Bedroom — Keycard in Delta Force. Found at 2 locations. Used to open the East Town Residential Bedroom. Uses: 20, Weight: 0.05 kg…"}
+{"id": "15050100019", "desc": "East Wing Manager&#x27;s Office — Keycard in Delta Force. Found at 1 location. Used to open the East Wing Manager&#x27;s Office. Uses: 20, Weight: 0.05 kg, Size…"}
+{"id": "15050200002", "desc": "Eastern Suspension Bridge — Keycard in Delta Force. Found at 1 location. Used to open the Eastern Suspension Bridge. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15030040014", "desc": "ECM Jammer — Collectible in Delta Force. Electronic product. It emits signals of specific frequencies to disrupt and destroy enemy electronic systems. It…"}
+{"id": "14040000002", "desc": "Elastic Bandage — Consumable in Delta Force. Heals 1 wound upon use with up to 2 uses. Activation Time: 3s. Weight: 0.1 kg, Size: 1×1, Reference Price…"}
+{"id": "15020010007", "desc": "Electric Demolition Hammer — Collectible in Delta Force. Tool & material. An electric-powered crusher that can swiftly break down hard materials like…"}
+{"id": "15010010013", "desc": "Electric Lighter — Collectible in Delta Force. Household item. A small device used to make fires. Primarily used to light cigarettes, it can also make…"}
+{"id": "15080050039", "desc": "Electronic Thermometer — Collectible in Delta Force. An electronic thermometer with an LCD screen, displaying room temperature and humidity in real-time…"}
+{"id": "13040000109", "desc": "Elite Light Stock — Attachment in Delta Force. Weight: 0.51 kg, Size: 1×2, Reference Price: 14,161."}
+{"id": "13130000193", "desc": "Elite Pistol Muzzle Brake — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 5,757."}
+{"id": "11050005001", "desc": "Elite Vest — Gear in Delta Force. First-rate armor for elite Ahsarah soldiers. Meets ballistic standards Lv.5 but slightly reduces movement speed and…"}
+{"id": "13130000182", "desc": "Ember Suppressor — Attachment in Delta Force. Weight: 0.8 kg, Size: 1×1, Reference Price: 35,611."}
+{"id": "15050200009", "desc": "Employee Passage — Keycard in Delta Force. Found at 2 locations. Used to open the Employee Passage. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15080050001", "desc": "Empress Earring — Collectible in Delta Force. Custom-made for the princess consort of Ahsarah. Once preserved in a museum, it was later stolen. Weight…"}
+{"id": "15080050045", "desc": "Encrypted Router — Collectible in Delta Force. An encoded router features multiple encryption algorithms to protect data. The stored intelligence…"}
+{"id": "15080050074", "desc": "English Tea Bag — Collectible in Delta Force. Tea leaves sealed with thin gauze for convenient brewing, rich aroma, enjoy the elegance of English…"}
+{"id": "14020000003", "desc": "Enhanced Injector — Consumable in Delta Force. 60 Durability. Recovers 12 HP per second. Activation Time: 3s. Weight: 0.4 kg, Size: 1×1, Reference Price…"}
+{"id": "15050100016", "desc": "Equipment Collection Room — Keycard in Delta Force. Found at 1 location. Used to open the Equipment Collection Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15040040007", "desc": "EV Battery — Collectible in Delta Force. Miscellaneous. It serves as a long-lasting and stable power source for electric vehicles. Weight: 9.23 kg, Size…"}
+{"id": "15070040003", "desc": "Experimental Data — Collectible in Delta Force. Intel item. Experimental data. Weight: 0.04 kg, Size: 1×1, Reference Price: 240,258."}
+{"id": "14050000001", "desc": "Extended-Release Painkiller — Consumable in Delta Force. Relieves pain for 200s and removes the visual interference from pain and fractures. Up to 1 use…"}
+{"id": "15050300031", "desc": "Farm Admin Room — Keycard in Delta Force. Found at 2 locations. Used to open the Farm Admin Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15060080009", "desc": "Field Energy Bar — Collectible in Delta Force. Made according to sophisticated and high standards, this military energy bar is rich in all kinds of…"}
+{"id": "14020000004", "desc": "Field First Aid Kit — Consumable in Delta Force. 220 Durability. Recovers 20 HP per second. Activation Time: 6s. Weight: 0.5 kg, Size: 1×2, Reference…"}
+{"id": "11080004002", "desc": "Field Hiking Backpack — Gear in Delta Force. A field backpack designed for long-distance missions on foot, with excellent weight distribution and a…"}
+{"id": "14020000006", "desc": "Field Med Crate — Consumable in Delta Force. 800 Durability. Recovers 30 HP per second. Activation Time: 3.5s. Heals 1 wound or relieves pain for 60s by…"}
+{"id": "15040010021", "desc": "Firearm Parts — Collectible in Delta Force. Miscellaneous. Parts that make up a firearm. Weight: 0.5 kg, Size: 1×2, Reference Price: 13,069."}
+{"id": "13160000007", "desc": "Flare Tactical Flashlight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 41,667."}
+{"id": "15070010001", "desc": "Flash Drive — Collectible in Delta Force. Intel item. This is an OHPO portable 16 GB flash drive. Weight: 0.01 kg, Size: 1×1, Reference Price: 9,380."}
+{"id": "15030050014", "desc": "Flight Recorder — Collectible in Delta Force. Electronic product. A flight data recorder. Weight: 15 kg, Size: 2×3, Reference Price: 1,456,215."}
+{"id": "13140000037", "desc": "Folding Grip — Attachment in Delta Force. Weight: 0.14 kg, Size: 1×1, Reference Price: 9,391."}
+{"id": "15060010004", "desc": "Forehead Thermometer — Collectible in Delta Force. Medical item. Used for measuring body temperature. Weight: 0.58 kg, Size: 1×1, Reference Price: 8,241."}
+{"id": "15060080010", "desc": "Fried Noodles — Collectible in Delta Force. This food made with traditional oriental food technology is both delicious and nutritious. Weight: 0.27 kg…"}
+{"id": "11050005003", "desc": "FS Composite Vest — Gear in Delta Force. Meets ballistic standards Lv.5. The modular design reduces some weight, but the premium bulletproof plates still…"}
+{"id": "15020010028", "desc": "Engine Oil — Collectible in Delta Force. Energy item. A liquid or semi-solid lubricant that is used to protect machines and parts, primarily for…"}
+{"id": "15020010036", "desc": "Fuel Cell — Collectible in Delta Force. Energy fuel. A highly efficient and environmentally friendly energy item that can convert the chemical energy of…"}
+{"id": "13120000293", "desc": "G-Series Pistol 25-Round Mag — Attachment in Delta Force. Weight: 0.14 kg, Size: 2×1, Reference Price: 4,170."}
+{"id": "13120000294", "desc": "G-Series Pistol 33-Round Mag — Attachment in Delta Force. Weight: 0.16 kg, Size: 2×1, Reference Price: 5,442."}
+{"id": "15030050013", "desc": "G.T.I. SATCOM Antenna — Collectible in Delta Force. Electronic product. A portable, high-performance communication device manufactured by G.T.I. for…"}
+{"id": "11070003004", "desc": "G01 Tactical Chest Rig — Gear in Delta Force. Designed for heavy gear carriers, with multiple ammo mounting slots. Compatible with additional tactical…"}
+{"id": "18070000010", "desc": "G17 — Weapon in Delta Force. A 9x19mm caliber semi-auto pistol from Austria. Classic, reliable, and durable. Capacity: 17, Damage: 27, Armor Damage: 25."}
+{"id": "13020000476", "desc": "G17 Lightweight Barrel — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×2, Reference Price: 3,202."}
+{"id": "13020000477", "desc": "G17 Tactical Heavy Barrel — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×2, Reference Price: 3,211."}
+{"id": "18070000005", "desc": "G18 — Weapon in Delta Force. A full-auto 9x19mm model of the G series, known for its high fire rate. Capacity: 17, Damage: 23, Armor Damage: 16."}
+{"id": "13020000456", "desc": "G18 Impact Long Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 7,248."}
+{"id": "13120000173", "desc": "G3 30-Round Mag — Attachment in Delta Force. Weight: 0.14 kg, Size: 2×1, Reference Price: 12,335."}
+{"id": "13120000054", "desc": "G3 50-Round Drum Mag — Attachment in Delta Force. Weight: 0.33 kg, Size: 2×2, Reference Price: 16,551."}
+{"id": "18010000023", "desc": "G3 Battle Rifle — Weapon in Delta Force. A classic, reliable full-power battle rifle that fires 7.62x51mm rounds. Capacity: 20, Damage: 39, Armor Damage…"}
+{"id": "13040000128", "desc": "G3 Collapsible Stock — Attachment in Delta Force. Weight: 0.42 kg, Size: 1×2, Reference Price: 3,221."}
+{"id": "13020000486", "desc": "G3 Enhanced Long Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 16,431."}
+{"id": "13020000394", "desc": "G3 Guard Standard Barrel Combo — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 16,431."}
+{"id": "13020000483", "desc": "G3 Hurricane Short Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 16,431."}
+{"id": "13020000512", "desc": "G3 Platform Marksman Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,567."}
+{"id": "13030000106", "desc": "G3 Rear Grip — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 17,300."}
+{"id": "13030000172", "desc": "G3 Skeleton Grip — Attachment in Delta Force. Weight: 0.16 kg, Size: 1×1, Reference Price: 16,469."}
+{"id": "13040000189", "desc": "G3 Stable Stock — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×2, Reference Price: 11,763."}
+{"id": "13040000100", "desc": "G3 Stock — Attachment in Delta Force. Weight: 0.42 kg, Size: 1×2, Reference Price: 13,180."}
+{"id": "11080003004", "desc": "GA Field Backpack — Gear in Delta Force. Designed for field operations, this durable and waterproof backpack performs reliably even in extreme weather…"}
+{"id": "15020010037", "desc": "Gas Tank — Collectible in Delta Force. An energy item that can store compressed or liquefied gas and provide a reliable and safe energy supply for gas…"}
+{"id": "15080050103", "desc": "Gas Torch — Collectible in Delta Force. An igniter using high-pressure propane as fuel, simple yet practical. Weight: 2 kg, Size: 2×1, Reference Price…"}
+{"id": "15050300032", "desc": "General&#x27;s Room — Keycard in Delta Force. Found at 1 location. Used to open the General&#x27;s Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "11070004004", "desc": "GIR Field Chest Rig — Gear in Delta Force. Designed for field combat. Waterproof and durable, capable of carrying large quantities of ammo and basic…"}
+{"id": "11010005004", "desc": "GN Heavy Helmet — Gear in Delta Force. A product designed based on the highest level of protection. Meets ballistic standards Lv.5, but severely affects…"}
+{"id": "15080050018", "desc": "Gold Crest — Collectible in Delta Force. This dagger-shaped crest is a testament to the craftsman's hard work and wisdom, as well as countless brave…"}
+{"id": "15010050001", "desc": "Golden Gazelle — Collectible in Delta Force. A 300-year-old artifact that was used by the Ahsarah prince to woo his lovers. Weight: 2.9 kg, Size: 2×2…"}
+{"id": "15030050001", "desc": "Graphics Card — Collectible in Delta Force. Electronic product. A specialized hardware component in computers for processing graphical data. It is…"}
+{"id": "13340000004", "desc": "Grizzly Full P. Mag Assist (Black) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000008", "desc": "Grizzly Full P. Mag Assist (Green) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000012", "desc": "Grizzly Full P. Mag Assist (Sand) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "15030050011", "desc": "GS5 Controller — Collectible in Delta Force. Electronic product. A video game controller that is well-designed and comfortable to hold, offering you…"}
+{"id": "11080004004", "desc": "GT1 Outdoor Climbing Bag — Gear in Delta Force. A professional outdoor backpack designed to adapt to various weather conditions, ideal for long-distance…"}
+{"id": "11010004004", "desc": "GT1 Tactical Helmet — Gear in Delta Force. Meets ballistic standards Lv.4. The attached headphones slightly reduce noise and enhance hearing, but…"}
+{"id": "11010006004", "desc": "GT5 Commander Helmet — Gear in Delta Force. Utilizes lighter goggles and blocks Ammo Lv.5. The attached headphones provide some noise reduction and…"}
+{"id": "11080005004", "desc": "GT5 Field Backpack — Gear in Delta Force. A medium field backpack that provides excellent protection and ample storage capacity, ideal for combat…"}
+{"id": "11080006004", "desc": "GTO Heavy Tactical Bag — Gear in Delta Force. A high-strength tactical backpack with exceptional capacity, ideal for carrying large quantities of ammo…"}
+{"id": "15080050092", "desc": "Guard Gold Ring — Collectible in Delta Force. Even the most fearsome creatures and people shall scatter on the sight of this thing in Ahsarah. Weight…"}
+{"id": "15040010017", "desc": "Gunpowder — Collectible in Delta Force. Miscellaneous. In the military, it is primarily used as a propellant for firearms, artillery projectiles…"}
+{"id": "11010002002", "desc": "H01 Tactical Helmet — Gear in Delta Force. Lighter than standard-issue helmets. Protection Level: 2, Durability: 12, Weight: 0.75 kg."}
+{"id": "11010003002", "desc": "H07 Tactical Helmet — Gear in Delta Force. Meets ballistic standards Lv.3. Slightly affects movement speed. Protection Level: 3, Durability: 20, Weight…"}
+{"id": "11010005002", "desc": "H09 Anti-Riot Helmet — Gear in Delta Force. Its large mask and extra neck protection give it a significant advantage in combat. Meets ballistic standards…"}
+{"id": "11010006002", "desc": "H70 Elite Helmet — Gear in Delta Force. An iteration of the Anti-Riot Helmet with material and facial armor upgrades. Meets ballistic standards Lv.6. The…"}
+{"id": "11050006002", "desc": "HA-2 Heavy Vest — Gear in Delta Force. An iteration of the Hvk-2 Heavy Vest. Meets ballistic standards Lv.6, but severely affects movement speed and…"}
+{"id": "15080050063", "desc": "Haavk Confidential Files — Collectible in Delta Force. A sophisticated paper file folder bearing Haavk's logo, likely to contain valuable intel. USAGE…"}
+{"id": "13110000051", "desc": "HAMR Combined Scope — Attachment in Delta Force. Weight: 1.03 kg, Size: 1×2, Reference Price: 28,858."}
+{"id": "15080050087", "desc": "Handsaw — Collectible in Delta Force. Can be used to cut materials such as wood, metal, and plastic, leaving clean and precise cuts. Weight: 1.5 kg…"}
+{"id": "11070003002", "desc": "HD3 Tactical Chest Rig — Gear in Delta Force. Built tough for harsh environments, with plenty of space for ammo and gear, ideal for extended battles…"}
+{"id": "15030010019", "desc": "HDD — Collectible in Delta Force. Electronic product. A traditional hard disk drive with shock resistance. Features slow data storage speeds and low…"}
+{"id": "15080050006", "desc": "Heart of Africa — Collectible in Delta Force. The world's largest diamond, dazzling and symbolizing eternal love. Weight: 0.62 kg, Size: 1×1, Reference…"}
+{"id": "11050005004", "desc": "Heavy Assault Vest — Gear in Delta Force. G.T.I. T&E Lab's initial experimental product for full-coverage armor. Meets ballistic standards Lv.5, but…"}
+{"id": "11080006002", "desc": "Heavy Climbing Bag — Gear in Delta Force. A heavy backpack designed for extreme environments, with excellent load capacity and durability. Offers 40…"}
+{"id": "15030050005", "desc": "HiFi Sound Card — Collectible in Delta Force. Electronic product. An ultimate sound card with stereo sound. It offers precise imaging with minimal losses…"}
+{"id": "15020010024", "desc": "High-power Crusher — Collectible in Delta Force. Tool & material. A powerful crushing machine that can demolish buildings and crush hard materials such…"}
+{"id": "15080050067", "desc": "High-Power Vacuum Cleaner — Collectible in Delta Force. A Haavk home product that uses a smart optical detection system to quickly clear stubborn dirt…"}
+{"id": "15020010023", "desc": "High-precision Digital Caliper — Collectible in Delta Force. Tool & material. A portable measuring tool for precise measurement of length, internal and…"}
+{"id": "15030050012", "desc": "High-Speed Disk Array — Collectible in Delta Force. Electronic product. Stores encrypted data. Can be used for military purposes. Comes with a…"}
+{"id": "15080050090", "desc": "High-Speed SSD — Collectible in Delta Force. Electronic product. Uses flash memory technology, with extremely fast read and write speeds, durable and…"}
+{"id": "11070002002", "desc": "HK3 Portable Chest Rig — Gear in Delta Force. A classic chest rig with versatile slots, suitable for various missions, especially designed for quick…"}
+{"id": "11080005002", "desc": "HLS-2 Heavy Backpack — Gear in Delta Force. A heavy combat backpack with massive storage capacity and an excellent load-bearing design, ideal for…"}
+{"id": "11050004007", "desc": "HMP Special Ops Vest — Gear in Delta Force. A ballistic vest made from the Haavk security department's latest material. Meets ballistic standards Lv.4…"}
+{"id": "13110000040", "desc": "Holographic Sight — Attachment in Delta Force. Weight: 0.5 kg, Size: 1×1, Reference Price: 5,144."}
+{"id": "13110000065", "desc": "Holographic Sight Type II — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×1, Reference Price: 5,132."}
+{"id": "13370000001", "desc": "Honeycomb Killflash — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 14,227."}
+{"id": "13320000015", "desc": "Hornet Handguard Panel — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000002", "desc": "Hornet SMG Mag Assist (Black) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000006", "desc": "Hornet SMG Mag Assist (Green) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "13340000010", "desc": "Hornet SMG Mag Assist (Sand) — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "15050400006", "desc": "Hotel Dining Room — Keycard in Delta Force. Found at 2 locations. Used to open the Hotel Dining Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15080050019", "desc": "Hotel Poster — Collectible in Delta Force. Featuring exquisite imagery and stirring words, it showcases the hotel's comfortable environment and quality…"}
+{"id": "15050400007", "desc": "Hotel Staff Break Room — Keycard in Delta Force. Found at 1 location. Used to open the Hotel Staff Break Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "11050002002", "desc": "HT Tactical Vest — Gear in Delta Force. A Haavk standard-issue vest that meets ballistic standards Lv.2. Protection Level: 2, Durability: 35, Weight…"}
+{"id": "15080050107", "desc": "Hunting Matches — Collectible in Delta Force. Matches specifically designed for outdoor use. Weight: 0.2 kg, Size: 1×1, Reference Price: 9,520."}
+{"id": "13030000113", "desc": "Hurricane D-1 Rear Grip — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 9,459."}
+{"id": "11070005001", "desc": "Hurricane Tactical Chest Rig — Gear in Delta Force. Designed for high-speed combat operations, with a high capacity for ammo and supplies, ideal for…"}
+{"id": "11050003002", "desc": "Hvk QR Vest — Gear in Delta Force. Haavk standard issue with front and back bulletproof plates. Meets ballistic standards Lv.3, significantly affecting…"}
+{"id": "11050005002", "desc": "Hvk-2 Vest — Gear in Delta Force. The first premium Haavk vest offering top-rated protection. Meets ballistic standards Lv.5, but its incredible weight…"}
+{"id": "15080050041", "desc": "Infantry Fighting Vehicle Model — Collectible in Delta Force. An infantry fighting vehicle simulation model, accurately scaled and rich in detail…"}
+{"id": "15060010012", "desc": "Infusion Set — Collectible in Delta Force. Medical item. An important medical consumable used during infusion. Weight: 0.25 kg, Size: 1×1, Reference…"}
+{"id": "15060010010", "desc": "Injector — Collectible in Delta Force. Medical item. It uses a needle to extract or inject gases or liquids. Weight: 0.05 kg, Size: 1×1, Reference Price…"}
+{"id": "13110000091", "desc": "Insight 3/7 Ballistic Sniper Scope — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 48,042."}
+{"id": "13110000092", "desc": "Insight 6/12 Ballistic Sniper Scope — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 48,172."}
+{"id": "15070050003", "desc": "Intel Document — Collectible in Delta Force. Intel item. A document that contains important information and data that can be used to record, analyze, and…"}
+{"id": "15080050096", "desc": "Intel Recorder — Collectible in Delta Force. Contains top-secret communication recordings from the command system during a certain operation. Weight: 1…"}
+{"id": "15080050024", "desc": "Intermediate Ammo Production Parts — Collectible in Delta Force. Tool & material. Precision and high-performance components that are used to produce more…"}
+{"id": "15050400011", "desc": "Interrogation Room No.1 — Keycard in Delta Force. Found at 1 location. Used to open the Interrogation Room No.1. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "13040000108", "desc": "Invasion Core Stock — Attachment in Delta Force. Weight: 0.56 kg, Size: 1×2, Reference Price: 17,932."}
+{"id": "13030000112", "desc": "Invasion Rear Grip — Attachment in Delta Force. Weight: 0.17 kg, Size: 1×1, Reference Price: 19,288."}
+{"id": "13140000036", "desc": "K1 Elite Bevel Foregrip — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×1, Reference Price: 19,237."}
+{"id": "13020000492", "desc": "K416 A8 Barrel Combo — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 35,648."}
+{"id": "13020000493", "desc": "K416 A8 Long Barrel Combo — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 35,648."}
+{"id": "18010000013", "desc": "K416 Assault Rifle — Weapon in Delta Force. The K416 Assault Rifle is a German engineering beauty. It uses 5.56x45mm ammo and boasts high reliability and…"}
+{"id": "13020000360", "desc": "K416 Elite Heavy Barrel Combo — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 20,360."}
+{"id": "13020000362", "desc": "K416 SpecOps Short Barrel Combo — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 35,648."}
+{"id": "13320000005", "desc": "KC Hound Handguard Panel — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "15030010014", "desc": "Keyboard — Collectible in Delta Force. Electronic product. A command and data input device for computers. Weight: 1.1 kg, Size: 1×2, Reference Price…"}
+{"id": "15050300001", "desc": "King&#x27;s Suite — Keycard in Delta Force. Found at 1 location. Used to open the King&#x27;s Suite. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "13160000006", "desc": "LA-3C Green Laser-Light Combo — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 19,290."}
+{"id": "15050300019", "desc": "Lab Building Archive Room — Keycard in Delta Force. Found at 1 location. Used to open the Lab Building Archive Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050300020", "desc": "Lab Building Office — Keycard in Delta Force. Found at 1 location. Used to open the Lab Building Office. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15030050007", "desc": "Laptop — Collectible in Delta Force. Electronic product. This laptop features an excellent screen ratio, a thin and portable design, and a newly upgraded…"}
+{"id": "11080003001", "desc": "Large Climbing Bag — Gear in Delta Force. A climbing backpack with enormous capacity and load-bearing strength, designed for long missions in difficult…"}
+{"id": "15080050088", "desc": "Large Radio Station — Collectible in Delta Force. Electronic product. Equipped with a high-power transceiver with a wide frequency range, allowing…"}
+{"id": "15030040010", "desc": "LCD Screen — Collectible in Delta Force. Electronic product. A type of flat display used for television and computer screens. Advantages include low…"}
+{"id": "15020010032", "desc": "LED Light — Collectible in Delta Force. Tool & material. An efficient lighting device that uses LED technology to provide a stable and long-lasting light…"}
+{"id": "15060040001", "desc": "LEDX — Collectible in Delta Force. Medical item. It uses infrared light to detect veins under the skin and clearly displays the location of blood vessels…"}
+{"id": "15060080005", "desc": "Lemon Tea — Collectible in Delta Force. Thinly slice a lemon after soaking it in hot water. After that, soak the slices in water and add honey and tea to…"}
+{"id": "15030040001", "desc": "Lens — Collectible in Delta Force. Electronic product. A micro image acquisition device. Weight: 0.45 kg, Size: 1×1, Reference Price: 107,041."}
+{"id": "15020040004", "desc": "Leveler — Collectible in Delta Force. Tool & material. A leveler is a common measuring tool for measuring small angles. Weight: 1.2 kg, Size: 2×1…"}
+{"id": "11080002001", "desc": "Light Outdoor Backpack — Gear in Delta Force. A lightweight design that's perfect for recon and rapid assault missions. Limited in capacity but very…"}
+{"id": "15080050109", "desc": "Light Outdoor Stove — Collectible in Delta Force. An adapter connects the canister and nozzle for quick release of combustible gas, which produces…"}
+{"id": "11070001003", "desc": "Light Tactical Chest Rig — Gear in Delta Force. Lightweight with multifunctional ammo holders and modular attachments for flexibility. Suitable for long…"}
+{"id": "11050001004", "desc": "Light Vest — Gear in Delta Force. G.T.I. recruits' training gear. Protection Level: 1, Durability: 30, Weight: 3.07 kg."}
+{"id": "13040000006", "desc": "Lightning Rail Stock — Attachment in Delta Force. Weight: 0.58 kg, Size: 1×2, Reference Price: 19,210."}
+{"id": "15030010002", "desc": "Lithium Battery — Collectible in Delta Force. Electronic product. It stores and provides power for cell phones. Weight: 0.1 kg, Size: 1×1, Reference…"}
+{"id": "15090910016", "desc": null}
+{"id": "15080050079", "desc": "Local Rebrewed Coffee — Collectible in Delta Force. Soon-to-expire instant coffee that was repackaged and put for sale, typically sold via special…"}
+{"id": "15080050082", "desc": "Local Specialty Jewelry — Collectible in Delta Force. Ahsarah local jewelry that incorporates regional cultural elements, featuring a unique design with…"}
+{"id": "13110000069", "desc": "LPVO Scope — Attachment in Delta Force. Weight: 1.44 kg, Size: 1×2, Reference Price: 26,579."}
+{"id": "15080050042", "desc": "Luxury Mechanical Watch — Collectible in Delta Force. A gold luxury mechanical watch featuring a dazzling diamond-encrusted dial and precisely…"}
+{"id": "14070000001", "desc": "M1 Muscle Booster — Consumable in Delta Force. Increases Load Capacity for 180s. Weight: 0.1 kg, Size: 1×1, Reference Price: 7,500."}
+{"id": "13020000453", "desc": "M1014 Breakpoint Barrel — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×2, Reference Price: 22,999."}
+{"id": "13050000188", "desc": "M1014 Rail Handguard — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 5,538."}
+{"id": "18030000001", "desc": "M1014 Shotgun — Weapon in Delta Force. A reliable and versatile 12-gauge semi-automatic shotgun that fires 8 projectiles at a time. Capacity: 7, Damage…"}
+{"id": "13120000249", "desc": "M14 20-Round Mag — Attachment in Delta Force. Weight: 0.16 kg, Size: 2×1, Reference Price: 20,329."}
+{"id": "13120000049", "desc": "M14 30-Round Mag — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 26,727."}
+{"id": "13120000053", "desc": "M14 50-Round Drum Mag — Attachment in Delta Force. Weight: 0.35 kg, Size: 2×2, Reference Price: 35,467."}
+{"id": "13050000183", "desc": "M14 Adv. Frame System — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 35,624."}
+{"id": "13040000176", "desc": "M14 EBR Stock — Attachment in Delta Force. Weight: 0.31 kg, Size: 1×2, Reference Price: 35,506."}
+{"id": "13020000388", "desc": "M14 Insight Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 35,770."}
+{"id": "18050000005", "desc": "M14 Marksman Rifle — Weapon in Delta Force. This 7.62x51mm caliber full-power rifle offers powerful firepower when switched to full auto mode. A truly…"}
+{"id": "13050000233", "desc": "M14 Polymer Integral Stock — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×2, Reference Price: 20,319."}
+{"id": "13050000234", "desc": "M14 Rail Integral Stock — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 26,798."}
+{"id": "13020000386", "desc": "M14 Roamer Standard Barrel — Attachment in Delta Force. Weight: 0.31 kg, Size: 1×2, Reference Price: 35,720."}
+{"id": "13020000387", "desc": "M14 Whisper Short Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 35,511."}
+{"id": "13110000082", "desc": "M157 Fire Control System — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 39,869."}
+{"id": "18010000014", "desc": "M16A4 Assault Rifle — Weapon in Delta Force. This 5.56x45mm caliber rifle features a three-round burst mode and offers high accuracy. Capacity: 30…"}
+{"id": "13040000114", "desc": "M16A4 Stable Stock — Attachment in Delta Force. Weight: 0.51 kg, Size: 1×2, Reference Price: 9,968."}
+{"id": "18070000033", "desc": "M1911 — Weapon in Delta Force. A classic semi-auto pistol chambered in .45 ACP. Reliable and durable, with many derivative models. This model is a Delta…"}
+{"id": "13120000334", "desc": "M1911 11-Round Extended Mag — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 3,762."}
+{"id": "13020000519", "desc": "M1911 Nighthawk Tactical Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 6,593."}
+{"id": "13380000002", "desc": "M1911 Nighthawk Tactical Hammer — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 6,614."}
+{"id": "13030000185", "desc": "M1911 Nighthawk Tactical Rear Grip — Ammo in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 4,952."}
+{"id": "13250000006", "desc": null}
+{"id": "14070000003", "desc": "M2 Muscle Injector — Consumable in Delta Force. Increases Load Capacity for 300s. Weight: 0.1 kg, Size: 1×1, Reference Price: 12,500."}
+{"id": "13050000325", "desc": "M249 Bipod Handguard — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 14,702."}
+{"id": "13040000138", "desc": "M249 End Cap — Attachment in Delta Force. Weight: 0.62 kg, Size: 1×2, Reference Price: 5,147."}
+{"id": "13040000137", "desc": "M249 Elite Skeleton Stock — Attachment in Delta Force. Weight: 0.66 kg, Size: 1×2, Reference Price: 28,832."}
+{"id": "13020000311", "desc": "M249 Gulf Short Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 25,630."}
+{"id": "18040000002", "desc": "M249 Light Machine Gun — Weapon in Delta Force. This 5.56x45mm caliber machine gun offers powerful firepower for suppression and can use mags for ammo…"}
+{"id": "13050000338", "desc": "M249 Military Rail Handguard — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×2, Reference Price: 25,705."}
+{"id": "13050000186", "desc": "M249 Rail Handguard — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 25,705."}
+{"id": "13020000239", "desc": "M249 Rhino Long Barrel — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 25,752."}
+{"id": "13120000332", "desc": "M250 75-Round Belt — Attachment in Delta Force. Weight: 0.6 kg, Size: 2×2, Reference Price: 35,507."}
+{"id": "18040000003", "desc": "M250 General Machine Gun — Weapon in Delta Force. A belt-fed machine gun that fires 6.8x51mm full-power ammo, featuring a specially designed feed cover…"}
+{"id": "13020000520", "desc": "M250 Sentinel Short Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,618."}
+{"id": "13020000524", "desc": "M250 Titanium Long Barrel — Attachment in Delta Force. Weight: 0.5 kg, Size: 1×2, Reference Price: 35,642."}
+{"id": "13110000090", "desc": "M3 Sniper Scope — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 25,677."}
+{"id": "13120000234", "desc": "M4 45-Round Extended Mag — Attachment in Delta Force. Weight: 0.16 kg, Size: 2×1, Reference Price: 19,196."}
+{"id": "13120000235", "desc": "M4 60-Round Drum Mag — Attachment in Delta Force. Weight: 0.23 kg, Size: 2×1, Reference Price: 25,530."}
+{"id": "13040000179", "desc": "M4 Recoil Buffer Tube — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "18010000001", "desc": "M4A1 Assault Rifle — Weapon in Delta Force. The M4A1 Assault Rifle fires 5.56x45mm ammo and boasts reliable firepower. Capacity: 30, Damage: 31, Armor…"}
+{"id": "13120000262", "desc": "M7 6.8 30-Round Mag — Attachment in Delta Force. Weight: 0.18 kg, Size: 2×1, Reference Price: 20,401."}
+{"id": "13120000263", "desc": "M7 6.8 45-Round Drum Mag — Attachment in Delta Force. Weight: 0.2 kg, Size: 2×1, Reference Price: 35,599."}
+{"id": "18010000016", "desc": "M7 Battle Rifle — Weapon in Delta Force. The M7 is a modern rifle that uses 6.8x51mm full-power rounds. Capacity: 20, Damage: 37, Armor Damage: 40."}
+{"id": "13020000518", "desc": "M7 Lizard Short Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,648."}
+{"id": "13020000381", "desc": "M7 Practical Long Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,464."}
+{"id": "13130000196", "desc": "M7 Practical Suppressor — Attachment in Delta Force. Weight: 1.11 kg, Size: 1×1, Reference Price: 19,208."}
+{"id": "13030000110", "desc": "M7 Stable Rear Grip — Attachment in Delta Force. Weight: 0.12 kg, Size: 1×1, Reference Price: 3,219."}
+{"id": "13020000383", "desc": "M7 Tidal Ultra-Long Barrel Combo — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 74,922."}
+{"id": "13120000286", "desc": "M700 10-Round Mag — Attachment in Delta Force. Weight: 0.18 kg, Size: 2×1, Reference Price: 25,687."}
+{"id": "13050000308", "desc": "M700 Adv. Frame System — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 25,623."}
+{"id": "13050000306", "desc": "M700 Black Integral Stock — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 14,618."}
+{"id": "13290000002", "desc": "M700 Cheek Pad — Attachment in Delta Force. Weight: 0.38 kg, Size: 1×1, Reference Price: 14,590."}
+{"id": "13020000443", "desc": "M700 Integrally Suppressed Barrel — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 51,019."}
+{"id": "13050000334", "desc": "M700 Military Handguard — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×2, Reference Price: 14,618."}
+{"id": "13020000515", "desc": "M700 Predator Military Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 25,510."}
+{"id": "18060000009", "desc": "M700 Sniper Rifle — Weapon in Delta Force. A 7.62x51mm caliber sniper weapon that can easily hunt targets. It combines stability and range and allows…"}
+{"id": "13050000307", "desc": "M700 Stable Integral Stock — Attachment in Delta Force. Weight: 0.24 kg, Size: 1×2, Reference Price: 14,650."}
+{"id": "13020000444", "desc": "M700 Stratosphere Long Barrel — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 25,623."}
+{"id": "13020000494", "desc": "M870 Extended Barrel — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 3,201."}
+{"id": "13050000191", "desc": "M870 Rail Handguard — Attachment in Delta Force. Weight: 0.22 kg, Size: 1×2, Reference Price: 916."}
+{"id": "18030000004", "desc": "M870 Shotgun — Weapon in Delta Force. A classic and reliable 12-gauge pump-action shotgun that fires 8 projectiles at a time. Capacity: 6, Damage: 17…"}
+{"id": "13030000131", "desc": "M9 Black Balanced Rear Grip — Attachment in Delta Force. Weight: 0.17 kg, Size: 1×1, Reference Price: 4,464."}
+{"id": "13030000133", "desc": "M9 Carneose Stable Rear Grip — Attachment in Delta Force. Weight: 0.18 kg, Size: 1×1, Reference Price: 4,444."}
+{"id": "13030000132", "desc": "M9 Bakelite Stable Rear Grip — Attachment in Delta Force. Weight: 0.17 kg, Size: 1×1, Reference Price: 4,458."}
+{"id": "16110000017", "desc": null}
+{"id": "16110000014", "desc": null}
+{"id": "15080050030", "desc": "MandelBrick Supercomputing Unit — Collectible in Delta Force. Haavk Corp's M100 supercomputing unit. A civilian-grade chip based on MandelBrick…"}
+{"id": "15020040003", "desc": "Manometer — Collectible in Delta Force. Tool & material. A high-precision pressure tester. It is reliable and has an intuitive reading display. Weight…"}
+{"id": "15080050083", "desc": "Mantel Clock — Collectible in Delta Force. A solid wood timekeeping clock with a surface coated with lacquer made from crushed minerals, exuding a sense…"}
+{"id": "11080004001", "desc": "MAP Recon Backpack — Gear in Delta Force. A compact recon backpack, highly durable and waterproof, ideal for covert operations. Offers 24 storage slots…"}
+{"id": "13030000114", "desc": "Marksman D-2 Rear Grip — Attachment in Delta Force. Weight: 0.14 kg, Size: 1×1, Reference Price: 9,465."}
+{"id": "11050003004", "desc": "Marksman TAC Vest — Gear in Delta Force. Meets ballistic standards Lv.3 with additional abdominal protection. The increased coverage drastically affects…"}
+{"id": "11010005001", "desc": "Mask-1 Iron Helmet — Gear in Delta Force. An iteration of the Guardian Helmet with improved materials and added facial protection. Meets ballistic…"}
+{"id": "15010010008", "desc": "Matches — Collectible in Delta Force. Household item. A handy tool that generates fire by friction according to the principle of physics. Weight: 0.01…"}
+{"id": "11010002004", "desc": "MC Helmet — Gear in Delta Force. Blocks Ammo Lv.1. Protection Level: 2, Durability: 20, Weight: 1.69 kg."}
+{"id": "11010003004", "desc": "MC201 Helmet — Gear in Delta Force. Meets ballistic standards Lv.3. The attached headphones slightly enhance hearing and noise reduction. Protection…"}
+{"id": "15020010018", "desc": "Hammer Drill — Collectible in Delta Force. Tool & material. A tool that can break large materials. Can be used to process stone materials, such as making…"}
+{"id": "15090010040", "desc": "Mechanical Worker Bee Model — Collectible in Delta Force. A mechanical bee with a bionic design, exquisite and compact. Its vibrating wings mimic the…"}
+{"id": "15060010007", "desc": "Medical Alcohol — Collectible in Delta Force. Medical item. Its main component is ethanol. Weight: 0.72 kg, Size: 1×1, Reference Price: 9,128."}
+{"id": "15050400017", "desc": "Medical Conference Room — Keycard in Delta Force. Found at 1 location. Used to open the Medical Conference Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15090010041", "desc": "Medical UAV — Collectible in Delta Force. An unmanned aerial vehicle that is controlled via onboard control programs and a remote controller. Used for…"}
+{"id": "15080050097", "desc": "Medical Ventilator — Collectible in Delta Force. Medical item. A respiratory aid device designed specifically for patients whose vital signs have…"}
+{"id": "15070010002", "desc": "Memory Card — Collectible in Delta Force. Intel item. This Condisk 256 GB memory card is an external storage device for digital products. Weight: 0.01…"}
+{"id": "15080050004", "desc": "Merit Medal — Collectible in Delta Force. A luxurious merit medal, seemingly awarded to an individual who made outstanding contributions to Ahsarah's…"}
+{"id": "11010004002", "desc": "MHS Tactical Helmet — Gear in Delta Force. A premium helmet designed for Haavk elites. Equipped with tactical headphones that provide good hearing and…"}
+{"id": "15080050098", "desc": "Micro Reactor — Collectible in Delta Force. Equipped with a compact reactor, it supplies energy to facilities by harnessing the immense power generated…"}
+{"id": "13210000012", "desc": "Micro Sight Riser — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 6,435."}
+{"id": "15080050035", "desc": "Military Binoculars — Collectible in Delta Force. The military binoculars feature high magnification and high-definition imaging capabilities, allowing…"}
+{"id": "15080050105", "desc": "Military Camping Light — Collectible in Delta Force. More durable and portable than standard camping lights, it often lights the way for soldiers…"}
+{"id": "15030050018", "desc": "Military Control Terminal — Collectible in Delta Force. A military terminal, mainly used under extreme weather and complex networks to decode secret…"}
+{"id": "15030050019", "desc": "Military Explosive — Collectible in Delta Force. Military item. A premium raw material for making explosives. Weight: 0.91 kg, Size: 2×2, Reference…"}
+{"id": "15080050032", "desc": "Military Information Terminal — Collectible in Delta Force. A military information terminal featuring a rugged, durable casing and dust and…"}
+{"id": "15090010024", "desc": null}
+{"id": "15030010001", "desc": "Military Power Bank — Collectible in Delta Force. Electronic product. Light and compact. A portable charger for mobile devices and other consumer…"}
+{"id": "15030050004", "desc": "Military Radio — Collectible in Delta Force. Electronic product. A device that can output electrical level signals at different frequencies and…"}
+{"id": "15080050033", "desc": "Military Satellite Communication Device — Collectible in Delta Force. A military satellite communication device. With high-speed transmission and…"}
+{"id": "15030050017", "desc": "Military Shell — Collectible in Delta Force. Military item. A fully-automatic multi-mode shell designed to be deployed on a wide range of military…"}
+{"id": "15080050036", "desc": "Military Thermal Imaging Device — Collectible in Delta Force. A military thermal imaging device that uses infrared technology for target detection at…"}
+{"id": "15080050089", "desc": "Military Ballistic Computer — Collectible in Delta Force. A high-precision computing device used to predict and adjust the trajectory of guided weapons…"}
+{"id": "15030050002", "desc": "Military UAV — Collectible in Delta Force. Electronic product. A drone that is controlled via onboard control programs and a remote controller. Weight…"}
+{"id": "13140000023", "desc": "Mini Hand Stop — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 3,227."}
+{"id": "15010010015", "desc": "Mini Hydrogen Battery — Collectible in Delta Force. Household item. Small hydrogen fuel cells that offer a compact, green, and durable solution for any…"}
+{"id": "13110000062", "desc": "Mini Red Dot Sight — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 10,237."}
+{"id": "13120000035", "desc": "Mini-14 20-Round Mag — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 5,940."}
+{"id": "13120000267", "desc": "Mini-14 30-Round Mag — Attachment in Delta Force. Weight: 0.18 kg, Size: 2×1, Reference Price: 14,913."}
+{"id": "13050000182", "desc": "Mini-14 Adv. Frame System — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 14,785."}
+{"id": "13020000489", "desc": "Mini-14 Enhanced Barrel — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 14,788."}
+{"id": "18050000002", "desc": "Mini-14 Marksman Rifle — Weapon in Delta Force. A semi-auto rifle that fires 5.56x45mm rounds and offers mild recoil and good accuracy. Capacity: 10…"}
+{"id": "13050000181", "desc": "Mini-14 Polymer Integral Stock — Attachment in Delta Force. Weight: 0.26 kg, Size: 1×2, Reference Price: 8,458."}
+{"id": "13050000180", "desc": "Mini-14 Polymer Stock — Attachment in Delta Force. Weight: 0.24 kg, Size: 1×2, Reference Price: 8,486."}
+{"id": "11050004004", "desc": "MK-2 Tactical Vest — Gear in Delta Force. The G.T.I. T&E Lab's new design that meets ballistic standards Lv.4, but its increased weight severely impairs…"}
+{"id": "15040010023", "desc": "Mobile Cable — Collectible in Delta Force. Miscellaneous. A lightweight and portable power transmission tool, providing stable and secure power…"}
+{"id": "15080050072", "desc": "Mocha Coffee Pot — Collectible in Delta Force. Traditional coffee brewing equipment, uses steam pressure to extract coffee, making rich and aromatic…"}
+{"id": "13320000020", "desc": "Modular Handguard Panel — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,142."}
+{"id": "11050001001", "desc": "Motorcycle Vest — Gear in Delta Force. A light and comfy vest that offers limited protection. Protection Level: 1, Durability: 20, Weight: 2.44 kg."}
+{"id": "15030010009", "desc": "Mouse — Collectible in Delta Force. Electronic product. An input device for computers. Weight: 0.08 kg, Size: 1×1, Reference Price: 877."}
+{"id": "13120000277", "desc": "MP5 50-Round Drum Mag — Attachment in Delta Force. Weight: 0.21 kg, Size: 2×1, Reference Price: 35,463."}
+{"id": "13040000127", "desc": "MP5 End Cap — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×1, Reference Price: 3,295."}
+{"id": "13020000427", "desc": "MP5 Performance Barrel Combo — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 18,899."}
+{"id": "13040000190", "desc": "MP5 Collapsible Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 9,433."}
+{"id": "13020000430", "desc": "MP5 Scout Long Barrel Combo — Attachment in Delta Force. Weight: 0.36 kg, Size: 1×2, Reference Price: 16,575."}
+{"id": "13020000429", "desc": "MP5 Stealth Short Barrel Combo — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 16,501."}
+{"id": "18020000001", "desc": "MP5 Submachine Gun — Weapon in Delta Force. A fully-automatic submachine gun that fires 9x19mm ammo and has the perfect balance when it comes to…"}
+{"id": "13020000428", "desc": "MP5 Tactical Barrel Combo — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 18,913."}
+{"id": "13040000129", "desc": "MP5K Folding Stock — Attachment in Delta Force. Weight: 0.47 kg, Size: 1×2, Reference Price: 11,781."}
+{"id": "13020000474", "desc": "MP5SD SpecOps Integrally Suppressed Barrel — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 32,984."}
+{"id": "18020000010", "desc": "MP7 Submachine Gun — Weapon in Delta Force. A personal defense weapon that uses 4.6x30mm ammo, compact and portable with extremely strong automatic…"}
+{"id": "13120000319", "desc": "MP7 30-Round Mag — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 14,272."}
+{"id": "13120000320", "desc": "MP7 40-Round Mag — Attachment in Delta Force. Weight: 0.45 kg, Size: 2×1, Reference Price: 26,795."}
+{"id": "13120000321", "desc": "MP7 60-Round Drum Mag — Attachment in Delta Force. Weight: 0.6 kg, Size: 2×1, Reference Price: 35,523."}
+{"id": "13030000164", "desc": "MP7 Balanced Rear Grip — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 35,531."}
+{"id": "13040000196", "desc": null}
+{"id": "13020000499", "desc": "MP7 Enhanced Barrel Combo — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 20,266."}
+{"id": "13030000165", "desc": "MP7 Stable Rear Grip — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 35,538."}
+{"id": "13020000498", "desc": "MP7 Stinger Long Barrel Combo — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 35,711."}
+{"id": "13020000500", "desc": "MP7 Wolf Fang Light Barrel — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 35,500."}
+{"id": "13040000183", "desc": "MRGS Skeleton Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,489."}
+{"id": "15080050108", "desc": "Multi-Purpose Battery — Collectible in Delta Force. A new battery designed for miniaturization, yet powerful enough to meet the energy needs of various…"}
+{"id": "13210000013", "desc": "Multi-Purpose Tactical Riser — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 6,435."}
+{"id": "15020010006", "desc": "Multitool — Collectible in Delta Force. Tool & material. A cutting tool used in construction. It is extremely powerful in terms of piercing and cutting…"}
+{"id": "15050400003", "desc": "Museum Abandoned Exhibition Hall — Keycard in Delta Force. Found at 1 location. Used to open the Museum Abandoned Exhibition Hall. Uses: 20, Weight: 0.05…"}
+{"id": "15050400002", "desc": "Museum Exhibition Suite — Keycard in Delta Force. Found at 1 location. Used to open the Museum Exhibition Suite. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050400004", "desc": "Museum Surveillance Room — Keycard in Delta Force. Found at 1 location. Used to open the Museum Surveillance Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15020010019", "desc": "Needle-Nose Pliers — Collectible in Delta Force. Tool & material. A specialized cutting tool made with high-precision machining. It has sharp cutting…"}
+{"id": "15040010016", "desc": "Network Cable — Collectible in Delta Force. Miscellaneous. Network cables are used to transmit data across networks. It is inexpensive, hence its…"}
+{"id": "15080050095", "desc": "Neural Interface Terminal — Collectible in Delta Force. The fruit of Haavk's cutting-edge technology, controlling electronic devices through brainwave…"}
+{"id": "13030000181", "desc": "Newtype Sword Heavy Grip — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 19,222."}
+{"id": "15050400014", "desc": "New Tower of Babel Power Supply Access Card — Keycard in Delta Force. Found at 8 locations. Used to unlock the New Tower of Babel Access Gate. Uses: 20…"}
+{"id": "13030000180", "desc": "Newtype Vanguard Light Grip — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 19,176."}
+{"id": "15050200012", "desc": "No.3 Dormitory Back Room — Keycard in Delta Force. Found at 1 location. Used to open the No.3 Dormitory Back Room. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "14070000009", "desc": "Norepinephrine — Consumable in Delta Force. An injector that can effectively enhance muscular endurance and increase Max Stamina for 120s. Weight: 0.1…"}
+{"id": "11070002001", "desc": "Nylon Chest Rig — Gear in Delta Force. Made of durable nylon material, lightweight and water-resistant, suitable for carrying basic supplies during…"}
+{"id": "11050001003", "desc": "Nylon Vest — Gear in Delta Force. A soft bulletproof vest worn by DF Squad rookies in the last century. Light and breathable but offers very little…"}
+{"id": "15050400012", "desc": "Ocean Monitoring Hall — Keycard in Delta Force. Found at 1 location. Used to open the Ocean Monitoring Hall. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "14070000008", "desc": "OE2 Combat Stimulant — Consumable in Delta Force. A single-dose injector used in emergencies to quickly recover significant stamina. Weight: 0.1 kg…"}
+{"id": "13110000079", "desc": "Offset Combat Red Dot Sight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 16,086."}
+{"id": "13110000078", "desc": "Offset Mini Red Dot Sight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 16,035."}
+{"id": "13110000088", "desc": "Offset OSIGHT Red Dot — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 16,086."}
+{"id": "13110000076", "desc": "Offset Panoramic Red Dot Sight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 15,989."}
+{"id": "13110000077", "desc": "Offset XRO Quick Response Sight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 16,014."}
+{"id": "13110000061", "desc": "OKP-7 Reflex Sight — Attachment in Delta Force. Weight: 0.5 kg, Size: 1×1, Reference Price: 10,287."}
+{"id": "15050400010", "desc": "Old Bath Diner — Keycard in Delta Force. Found at 1 location. Used to open the Old Bath Diner. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050400005", "desc": "Old Bath VIP Room — Keycard in Delta Force. Found at 1 location. Used to open the Old Bath VIP Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "13160000014", "desc": "OLIGHT Baldr Pro R Multi-Function Flashlight — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 25,521."}
+{"id": "13160000016", "desc": "OLIGHT Odin S Tactical Flashlight — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 41,667."}
+{"id": "13160000018", "desc": "OLIGHT Warrior 3S Tactical Flashlight — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 47,619."}
+{"id": "15060080015", "desc": "Olivia Champagne — Collectible in Delta Force. A type of sparkling wine from the Champagne region of France, renowned for its unique taste and bubbles…"}
+{"id": "13130000201", "desc": "OPS Suppressor — Attachment in Delta Force. Weight: 0.7 kg, Size: 1×1, Reference Price: 8,031."}
+{"id": "13110000056", "desc": "Optical Sniper 8x Scope — Attachment in Delta Force. Weight: 1.31 kg, Size: 1×2, Reference Price: 35,683."}
+{"id": "15060080008", "desc": "Orange Energy Gel — Collectible in Delta Force. This gel is made by concentrating a sports drink into a jelly-like form with pharmaceutical compounds. It…"}
+{"id": "13110000087", "desc": "OSIGHT Red Dot — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 10,237."}
+{"id": "11010001004", "desc": "Outdoor Baseball Cap — Gear in Delta Force. Offers integrated monitor headphones that slightly enhance hearing and reduce noise. Protection Level: 1…"}
+{"id": "14020000005", "desc": "Outdoor Med Crate — Consumable in Delta Force. 350 Durability. Recovers 20 HP per second. Activation Time: 4s. Heals 1 wound or relieves pain for 30s by…"}
+{"id": "15050400018", "desc": "Outpatient Room — Keycard in Delta Force. Found at 1 location. Used to open the Outpatient Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15060040003", "desc": "Oximeter — Collectible in Delta Force. Medical item. A convenient and easy-to-use medical instrument that is used for non-invasive measurement of blood…"}
+{"id": "13020000473", "desc": "P90 Cheetah Heavy Barrel — Attachment in Delta Force. Weight: 0.31 kg, Size: 1×2, Reference Price: 25,614."}
+{"id": "13020000472", "desc": "P90 Heavy Assault Long Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 25,733."}
+{"id": "13240000002", "desc": null}
+{"id": "18020000002", "desc": "P90 Submachine Gun — Weapon in Delta Force. A 5.7x28mm caliber fully-automatic bullpup submachine gun that adopts a unique top-mounted mag for greater…"}
+{"id": "15020010015", "desc": "Pack of Cement — Collectible in Delta Force. Tool & material. Inorganic cementing materials can firmly cement sand, stone, and other materials together…"}
+{"id": "15020010004", "desc": "Paint Brush — Collectible in Delta Force. Tool & material. Widely used and must be kept in a dry place and protected from insects when in storage for…"}
+{"id": "11080004005", "desc": "Survival Tactical Backpack — Gear in Delta Force. A combat backpack designed for high expandability with a well-organized sub-compartment layout…"}
+{"id": "13110000043", "desc": "Panoramic Red Dot Sight — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 10,239."}
+{"id": "13130000173", "desc": "PBS Russian Suppressor — Attachment in Delta Force. Weight: 1.1 kg, Size: 1×1, Reference Price: 19,247."}
+{"id": "15080050081", "desc": "Pepper Bottle — Collectible in Delta Force. A commonly used kitchen spice container, usually designed with small holes or grinding mechanism to control…"}
+{"id": "13160000005", "desc": "PEQ-2 Red Laser-Light Combo — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 19,141."}
+{"id": "14070000004", "desc": "Perception Activator — Consumable in Delta Force. Boosts hearing range by 10% for 180s. Weight: 0.1 kg, Size: 1×1, Reference Price: 9,000."}
+{"id": "14070000005", "desc": "Perception Booster — Consumable in Delta Force. Boosts hearing range by 10% for 300s. Weight: 0.1 kg, Size: 1×1, Reference Price: 15,000."}
+{"id": "15090910023", "desc": null}
+{"id": "13160000009", "desc": "PERST-7 Blue Laser-Light Combo — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 19,212."}
+{"id": "13030000111", "desc": "Phantom Rear Grip — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 35,535."}
+{"id": "13140000033", "desc": "Phantom Vertical Foregrip — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×1, Reference Price: 35,503."}
+{"id": "13140000022", "desc": "Phase Combat Foregrip — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 35,646."}
+{"id": "13170000002", "desc": "PKM Bipod — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 8,534."}
+{"id": "13040000198", "desc": null}
+{"id": "13120000301", "desc": "PKM Extended Mag — Attachment in Delta Force. Weight: 0.35 kg, Size: 2×2, Reference Price: 25,564."}
+{"id": "18040000001", "desc": "PKM General Machine Gun — Weapon in Delta Force. A fully automatic 7.62x54R machine gun that fires full-power rounds, with a medium fire rate and strong…"}
+{"id": "13020000416", "desc": "PKM Horizon Heavy Barrel — Attachment in Delta Force. Weight: 0.34 kg, Size: 1×2, Reference Price: 25,692."}
+{"id": "13020000414", "desc": "PKM Trench Short Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 25,630."}
+{"id": "13040000139", "desc": "PKM ZenitCo Stock — Attachment in Delta Force. Weight: 0.63 kg, Size: 1×2, Reference Price: 25,549."}
+{"id": "15020050003", "desc": "Polyethylene Fiber — Collectible in Delta Force. Tool & material. A high-strength fiber, applicable in military fields. USAGE: Can be used to produce T5…"}
+{"id": "15020010025", "desc": "Polymer Fabric — Collectible in Delta Force. Tool & material. A fabric made of ultra-high-molecular-weight fiber, offering excellent durability and…"}
+{"id": "11070001001", "desc": "Portable Chest Rig — Gear in Delta Force. Lightweight and compact, ideal for short missions. Stores a small amount of ammo and med kits for quick access…"}
+{"id": "15020010017", "desc": "Portable Hydraulic Wrench — Collectible in Delta Force. Tool & material. A hydraulic tool that tightens and loosens nuts and bolts of different sizes…"}
+{"id": "15080050031", "desc": "Portable Military Radar — Collectible in Delta Force. A portable military radar that is lightweight and easy to carry, capable of operating in various…"}
+{"id": "15080050091", "desc": "Portable Speaker — Collectible in Delta Force. Electronic product. Compact and lightweight, battery-powered, with clear sound quality. Supports Bluetooth…"}
+{"id": "15080050106", "desc": "Portable Survival Kit — Collectible in Delta Force. A small kit designed to hold lighting items and emergency tools, commonly used in disaster relief…"}
+{"id": "15090010026", "desc": null}
+{"id": "13130000165", "desc": "Poseidon Flash Hider — Attachment in Delta Force. Weight: 0.54 kg, Size: 1×1, Reference Price: 32,979."}
+{"id": "15030010011", "desc": "Power — Collectible in Delta Force. Electronic product. 110V - 220V AC power for domestic use. Weight: 2.6 kg, Size: 2×2, Reference Price: 4,991."}
+{"id": "15080050100", "desc": "Power Battery Pack — Collectible in Delta Force. Made from new materials that significantly enhance energy storage. Capable of supporting the operation…"}
+{"id": "13170000004", "desc": "Practical Bipod — Attachment in Delta Force. Weight: 0.75 kg, Size: 1×2, Reference Price: 13,857."}
+{"id": "13130000155", "desc": "Practical Flash Hider — Attachment in Delta Force. Weight: 0.65 kg, Size: 1×1, Reference Price: 3,205."}
+{"id": "13040000106", "desc": "Practical Light Stock — Attachment in Delta Force. Weight: 0.47 kg, Size: 1×2, Reference Price: 3,202."}
+{"id": "13130000192", "desc": "Practical Pistol Flash Hider — Attachment in Delta Force. Weight: 0.56 kg, Size: 1×1, Reference Price: 3,587."}
+{"id": "13040000104", "desc": "Practical Stable Stock — Attachment in Delta Force. Weight: 0.53 kg, Size: 1×2, Reference Price: 3,213."}
+{"id": "13130000157", "desc": "Practical Suppressor — Attachment in Delta Force. Weight: 0.92 kg, Size: 1×1, Reference Price: 9,454."}
+{"id": "13040000105", "desc": "Practical Tactical Stock — Attachment in Delta Force. Weight: 0.54 kg, Size: 1×2, Reference Price: 7,225."}
+{"id": "13140000021", "desc": "Practical Vertical Foregrip — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 3,224."}
+{"id": "13160000008", "desc": "Practical Weapon Light‏‏‎‏ — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 8,730."}
+{"id": "14060000001", "desc": "Precision Helmet Repair Kit — Consumable in Delta Force. An in-match repair tool for Lv.5 Gear that can quickly restore helmet durability. Each plate…"}
+{"id": "15020010001", "desc": "Precision Tool Set — Collectible in Delta Force. Tool & material. A collection of specialized mini tools for repairing or putting together devices…"}
+{"id": "14060000002", "desc": "Precision Vest Repair Kit — Consumable in Delta Force. An in-match repair tool for Lv.5 Gear that can quickly restore vest durability. Each plate…"}
+{"id": "15080050025", "desc": "Premium Ammo Production Parts — Collectible in Delta Force. Tool & material. An advanced high-precision component specifically designed for manufacturing…"}
+{"id": "15080050069", "desc": "Premium Coffee Beans — Collectible in Delta Force. Premium coffee beans selected from high-quality coffee trees in the Ahsarah region. Carefully roasted…"}
+{"id": "15020010035", "desc": "Premium Fuel — Collectible in Delta Force. Energy item. Provides a source of fire, offering long-lasting and stable power for various devices to meet…"}
+{"id": "14060000003", "desc": "Premium Helmet Repair Combo — Consumable in Delta Force. An in-match repair tool for Lv.6 Gear that can quickly restore helmet durability. Each plate…"}
+{"id": "14060000004", "desc": "Premium Vest Repair Combo — Consumable in Delta Force. An in-match repair tool for Lv.6 Gear that can quickly restore vest durability. Each plate…"}
+{"id": "15050300005", "desc": "Prince&#x27;s Suite — Keycard in Delta Force. Found at 1 location. Used to open the Prince&#x27;s Suite. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15030010013", "desc": "Printed Circuit Board — Collectible in Delta Force. Electronic product. The high-quality PCB provides electrical connections between electronic…"}
+{"id": "15090910017", "desc": null}
+{"id": "15080050038", "desc": "Professional Sound Card — Collectible in Delta Force. A professional sound card that delivers high-fidelity audio processing and multi-interface…"}
+{"id": "15030050003", "desc": "Programmable Processor — Collectible in Delta Force. Electronic product. A digital electronic device with a microprocessor, used as a digital logic…"}
+{"id": "13120000330", "desc": "PSG 20-Round Extended Mag — Attachment in Delta Force. Weight: 0.3 kg, Size: 2×1, Reference Price: 17,322."}
+{"id": "18050000031", "desc": "PSG-1 Marksman Rifle — Weapon in Delta Force. A high-precision semi-automatic sniper rifle that uses 7.62x51mm ammo, compatible with certain G3…"}
+{"id": "13250000005", "desc": "PSG-1 Precision Trigger — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 23,104."}
+{"id": "13030000171", "desc": "PSG-1 Rear Grip — Attachment in Delta Force. Weight: 0.19 kg, Size: 1×1, Reference Price: 12,431."}
+{"id": "13110000049", "desc": "PSO Battle 2.5x Scope — Attachment in Delta Force. Weight: 0.91 kg, Size: 1×2, Reference Price: 13,672."}
+{"id": "13110000081", "desc": "PSO Sniper 8x Scope — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 10,421."}
+{"id": "13040000118", "desc": "PT1 Spec Ops Stock — Attachment in Delta Force. Weight: 0.53 kg, Size: 1×2, Reference Price: 35,680."}
+{"id": "13040000181", "desc": "PT3 Sacrifice Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,725."}
+{"id": "18010000024", "desc": "PTR-32 Assault Rifle — Weapon in Delta Force. The PTR-32 is an assault rifle developed from the G3 Rifle. It fires 7.62x39mm medium-power rounds and is…"}
+{"id": "15080050002", "desc": "Pure Gold Lighter — Collectible in Delta Force. Crafted from 24K pure gold. Quiet luxury, durable, with a flexible lid. Enhances the user's temperament…"}
+{"id": "13130000195", "desc": "Purifica Pistol Suppressor — Attachment in Delta Force. Weight: 0.62 kg, Size: 1×1, Reference Price: 5,746."}
+{"id": "15060080006", "desc": "Purified Water — Collectible in Delta Force. The water has been processed and distilled to ensure it is clean and free of impurities and bacteria…"}
+{"id": "13290000003", "desc": null}
+{"id": "13020000505", "desc": "QBZ-95 Tactical Barrel — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×2, Reference Price: 9,397."}
+{"id": "18010000008", "desc": "QBZ95-1 Assault Rifle — Weapon in Delta Force. A 5.8x42mm caliber fully-automatic bullpup assault rifle that offers fast fire rate and comfortable…"}
+{"id": "13020000373", "desc": "QBZ95-1 Longbow Barrel Combo — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 16,509."}
+{"id": "13020000372", "desc": "QBZ95-1 Practical Short Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 9,479."}
+{"id": "18070000002", "desc": "QSZ-92G — Weapon in Delta Force. A 9x19mm double-action semi-auto pistol with balanced performance. The improved version uses double-stack single-feed…"}
+{"id": "15070050001", "desc": "Quantum Storage — Collectible in Delta Force. Intel item. A small, portable storage unit developed by Haavk Corp based on quantum storage technology…"}
+{"id": "11070001002", "desc": "Quick Recon Chest Rig — Gear in Delta Force. Designed for flexibility, featuring multiple quick-access slots, perfect for carrying basic combat supplies…"}
+{"id": "13120000314", "desc": "R93 15-Round Mag — Attachment in Delta Force. Weight: 0.12 kg, Size: 1×1, Reference Price: 25,616."}
+{"id": "13410000001", "desc": "R93 Barrel Heat Shield — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 5,116."}
+{"id": "13020000488", "desc": "R93 Fission Long Barrel — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 25,510."}
+{"id": "13020000487", "desc": "R93 Lightweight Short Barrel — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 25,510."}
+{"id": "18060000008", "desc": "R93 Sniper Rifle — Weapon in Delta Force. A straight-pull bolt-action sniper rifle that uses 7.62x51mm sniper rounds. Enemies knocked down by it in…"}
+{"id": "15050300017", "desc": "Radar Station Conference Room — Keycard in Delta Force. Found at 2 locations. Used to open the Radar Station Conference Room. Uses: 20, Weight: 0.05 kg…"}
+{"id": "15050300014", "desc": "Radar Station Control Room — Keycard in Delta Force. Found at 1 location. Used to open the Radar Station Control Room. Uses: 20, Weight: 0.05 kg, Size…"}
+{"id": "15050300015", "desc": "Radar Station Data Center — Keycard in Delta Force. Found at 1 location. Used to open the Radar Station Data Center. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050300021", "desc": "Radar Station Side Entrance Keycard — Keycard in Delta Force. Found at 1 location. Used to open the Radar Station Side Entrance. Uses: 20, Weight: 0.05…"}
+{"id": "15050300013", "desc": "Radar Station UAV Platform — Keycard in Delta Force. Found at 4 locations. Used to open the Radar Station UAV Platform. Uses: 20, Weight: 0.05 kg, Size…"}
+{"id": "15030040012", "desc": "Radio — Collectible in Delta Force. Electronic product. It is easy to carry, excellent in sound quality, and effective in noise suppression. Capable of…"}
+{"id": "11070004002", "desc": "Raider Tactical Vest — Gear in Delta Force. Provides high-level protection and tactical support, with ample space for gear. Ideal for frontline assaults…"}
+{"id": "11080003005", "desc": "Rainforest Hunter Backpack — Gear in Delta Force. A backpack specially designed for rainforests and humid environments, with excellent waterproofing…"}
+{"id": "15030040006", "desc": "RAM — Collectible in Delta Force. Electronic product. Internal storage that exchanges data directly with the CPU. Weight: 0.07 kg, Size: 1×1, Reference…"}
+{"id": "13320000001", "desc": "Ranger Handguard Panel — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,119."}
+{"id": "15080050110", "desc": "Rechargeable Battery Pack — Collectible in Delta Force. Relatively common rechargeable batteries. Weight: 0.2 kg, Size: 1×1, Reference Price: 3,548."}
+{"id": "13110000052", "desc": "Recon 1.5/5 Adjustable Scope — Attachment in Delta Force. Weight: 1.21 kg, Size: 1×2, Reference Price: 31,011."}
+{"id": "13110000046", "desc": "Reflex Sight — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×1, Reference Price: 5,145."}
+{"id": "15020010031", "desc": "Reinforced Carbon Fiberboard — Collectible in Delta Force. Tool & material. A premium composite material that is lightweight, strong and rigid. It is…"}
+{"id": "15080050013", "desc": "Reis's Music Scorebook — Collectible in Delta Force. Reis the Abyss Shark's personal music scorebook. Nobody knows what songs it contains, except for a…"}
+{"id": "15020050008", "desc": "Relay — Collectible in Delta Force. Tool & material. Features long lifespan, semi-permanent functionality, and the ability to drive signals with minimal…"}
+{"id": "15050400016", "desc": "Relink Implantation Surgery Room — Keycard in Delta Force. Found at 1 location. Used to open the Relink Implantation Surgery Room. Uses: 20, Weight: 0.05…"}
+{"id": "13030000178", "desc": "Resonant 2 Integral Stock — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×2, Reference Price: 51,141."}
+{"id": "13140000034", "desc": "Resonant Ergonomic Grip — Attachment in Delta Force. Weight: 0.22 kg, Size: 1×1, Reference Price: 35,709."}
+{"id": "13140000039", "desc": "Resonant MKII Foregrip — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 35,789."}
+{"id": "13130000181", "desc": "Resonant Sniper Rifle Suppressor — Attachment in Delta Force. Weight: 1.15 kg, Size: 1×1, Reference Price: 35,760."}
+{"id": "13030000115", "desc": "Restricted Zone Integral Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 51,456."}
+{"id": "11010002001", "desc": "Retro Motorcycle Helmet — Gear in Delta Force. Ahsarah Guard Recruit's favorite helmet. Slightly reduces hearing. Protection Level: 2, Durability: 18…"}
+{"id": "13020000459", "desc": "Revolver Practical Long Barrel — Attachment in Delta Force. Weight: 0.23 kg, Size: 1×2, Reference Price: 3,013."}
+{"id": "13020000458", "desc": "Revolver Practical Short Barrel — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×2, Reference Price: 3,025."}
+{"id": "13030000060", "desc": "Revolver Sniper Rear Grip — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 3,011."}
+{"id": "13140000029", "desc": "RK-0 Foregrip — Attachment in Delta Force. Weight: 0.19 kg, Size: 1×1, Reference Price: 19,137."}
+{"id": "13030000169", "desc": "RK-3 Rear Grip — Attachment in Delta Force. Weight: 0.19 kg, Size: 1×1, Reference Price: 19,178."}
+{"id": "15080050066", "desc": "Robot Cleaner — Collectible in Delta Force. A Haavk home product that uses a smart navigation system to plan cleaning routes to improve efficiency…"}
+{"id": "15020010033", "desc": "Rocket Fuel — Collectible in Delta Force. An unopened 20-liter high-performance aviation fuel designed for rocket engines, providing powerful thrust…"}
+{"id": "11080001005", "desc": "Rucksack — Gear in Delta Force. A classic backpack with high durability, suitable for storing heavy equipment and tools. Offers 10 storage slots. Weight…"}
+{"id": "13110000042", "desc": "Russian Accuracy 2x Scope — Attachment in Delta Force. Weight: 0.5 kg, Size: 1×1, Reference Price: 5,145."}
+{"id": "13130000177", "desc": "Russian SMG Precision Suppressor — Attachment in Delta Force. Weight: 1.05 kg, Size: 1×1, Reference Price: 19,201."}
+{"id": "15080050007", "desc": "Rusty Pirate Copper Coin — Collectible in Delta Force. An ancient Ahsarah pirate copper coin. Already rusted. Weight: 0.2 kg, Size: 1×1, Reference Price…"}
+{"id": "13120000289", "desc": "S12K 10-Round Extended Mag — Attachment in Delta Force. Weight: 0.14 kg, Size: 2×1, Reference Price: 5,565."}
+{"id": "13120000291", "desc": "S12K 24-Round Extended Drum Mag — Attachment in Delta Force. Weight: 0.22 kg, Size: 2×1, Reference Price: 13,851."}
+{"id": "13020000451", "desc": "S12K Breakthrough Long Barrel Combo — Attachment in Delta Force. Weight: 0.44 kg, Size: 1×2, Reference Price: 27,702."}
+{"id": "13040000135", "desc": "S12K Bump Stock — Attachment in Delta Force. Weight: 0.55 kg, Size: 1×2, Reference Price: 13,894."}
+{"id": "13020000449", "desc": "S12K Defender Short Barrel Combo — Attachment in Delta Force. Weight: 0.34 kg, Size: 1×2, Reference Price: 27,776."}
+{"id": "13020000450", "desc": "S12K Practical Long Barrel Combo — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×2, Reference Price: 11,091."}
+{"id": "13020000448", "desc": "S12K Practical Short Barrel Combo — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 11,082."}
+{"id": "18030000002", "desc": "S12K Shotgun — Weapon in Delta Force. A mag-fed 12-gauge semi-automatic shotgun with reliable damage and decent pellet spread, but has significant recoil…"}
+{"id": "15080050094", "desc": "Saeed's Crossbow — Collectible in Delta Force. Before the gears of fate churned on the land of Ahsarah, he was merely a hunter... Weight: 2 kg, Size…"}
+{"id": "15080050014", "desc": "Saeed's Pocket Watch — Collectible in Delta Force. Saeed the Wandering Hunter's personal pocket watch. Rumor has it that it contains the secret of his…"}
+{"id": "15060010001", "desc": "Saline Solution — Collectible in Delta Force. Medical Item. A stable solution. Weight: 0.6 kg, Size: 1×1, Reference Price: 2,048."}
+{"id": "15090010077", "desc": "Sample Test Tube — Collectible in Delta Force. Villager sample test tube. Weight: 0.02 kg, Size: 2×1, Reference Price: 1,889."}
+{"id": "13130000168", "desc": "Sandstorm Vertical Compensator — Attachment in Delta Force. Weight: 0.58 kg, Size: 1×1, Reference Price: 33,153."}
+{"id": "13120000250", "desc": "SCAR-H 30-Round Mag — Attachment in Delta Force. Weight: 0.18 kg, Size: 2×1, Reference Price: 26,642."}
+{"id": "13120000174", "desc": "SCAR-H 50-Round Drum Mag — Attachment in Delta Force. Weight: 0.2 kg, Size: 2×1, Reference Price: 25,546."}
+{"id": "18010000021", "desc": "SCAR-H Battle Rifle — Weapon in Delta Force. The SCAR-H is a 7.62x51mm caliber battle rifle made in [Term#Term_10004_Name]. Its modular design allows for…"}
+{"id": "13020000390", "desc": "SCAR-H Beaver Long Barrel — Attachment in Delta Force. Weight: 0.33 kg, Size: 1×2, Reference Price: 25,579."}
+{"id": "13040000193", "desc": "SCAR-H End Cap — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,144."}
+{"id": "13020000391", "desc": "SCAR-H Practical Standard Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 14,616."}
+{"id": "13020000392", "desc": "SCAR-H Type-0 Short Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 25,579."}
+{"id": "13030000170", "desc": "Scorpio Rear Grip — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×1, Reference Price: 35,618."}
+{"id": "15020010005", "desc": "Screwdriver — Collectible in Delta Force. Tool & material. A tool used to tighten screws. Weight: 0.15 kg, Size: 1×1, Reference Price: 2,381."}
+{"id": "15080050077", "desc": "Seasoning Set — Collectible in Delta Force. Sealed jars for storing five different spices, made of stainless steel. Weight: 0.45 kg, Size: 2×2, Reference…"}
+{"id": "13140000030", "desc": "Secret Order Bevel Foregrip — Attachment in Delta Force. Weight: 0.17 kg, Size: 1×1, Reference Price: 35,771."}
+{"id": "11010001002", "desc": "Security Helmet — Gear in Delta Force. Offers limited protection. Protection Level: 1, Durability: 10, Weight: 0.55 kg."}
+{"id": "11050001002", "desc": "Security Vest — Gear in Delta Force. Made of composite materials. The lightweight favorite of Haavk soldiers. Protection Level: 1, Durability: 20…"}
+{"id": "15020010014", "desc": "Set Square — Collectible in Delta Force. Tool & material. A measuring tool commonly used in inspection and drawing work, such as the inspection of…"}
+{"id": "13120000315", "desc": "SG552 30-Round Mag — Attachment in Delta Force. Weight: 0.25 kg, Size: 2×1, Reference Price: 3,287."}
+{"id": "13120000317", "desc": "SG552 45-Round Extended Mag — Attachment in Delta Force. Weight: 0.13 kg, Size: 2×1, Reference Price: 16,500."}
+{"id": "18010000017", "desc": "SG552 Assault Rifle — Weapon in Delta Force. The SG552 Assault Rifle fires 5.56x45mm rounds and is gas-operated like the AK. Capacity: 20, Damage: 25…"}
+{"id": "13040000091", "desc": "SG552 End Cap — Attachment in Delta Force. Weight: 0.13 kg, Size: 1×1, Reference Price: 3,310."}
+{"id": "13020000320", "desc": "SG552 Knighthood Heavy Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 16,544."}
+{"id": "13040000184", "desc": "Shadow Buffer Tube Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 35,598."}
+{"id": "13040000007", "desc": "Shadow Rail Stock — Attachment in Delta Force. Weight: 0.42 kg, Size: 1×2, Reference Price: 35,713."}
+{"id": "15080050009", "desc": "Shiny Pirate Gold Coin — Collectible in Delta Force. An ancient Ahsarah pirate gold coin. It has been carefully polished. Weight: 0.71 kg, Size: 1×1…"}
+{"id": "13130000187", "desc": "Shotgun Cage Compensator — Attachment in Delta Force. Weight: 0.84 kg, Size: 1×1, Reference Price: 13,263."}
+{"id": "13130000188", "desc": "Shotgun Cannon Muzzle Brake — Attachment in Delta Force. Weight: 0.88 kg, Size: 1×1, Reference Price: 27,815."}
+{"id": "13130000190", "desc": "Shotgun Echo Suppressor — Attachment in Delta Force. Weight: 1.03 kg, Size: 1×1, Reference Price: 20,697."}
+{"id": "13130000184", "desc": "Shotgun Practical Choke — Attachment in Delta Force. Weight: 0.85 kg, Size: 1×1, Reference Price: 1,281."}
+{"id": "13130000186", "desc": "Shotgun Precision Suppressor — Attachment in Delta Force. Weight: 0.9 kg, Size: 1×1, Reference Price: 13,265."}
+{"id": "13130000189", "desc": "Shotgun Vortex Choke — Attachment in Delta Force. Weight: 1.01 kg, Size: 1×1, Reference Price: 27,866."}
+{"id": "15080050102", "desc": "Signal Stick — Collectible in Delta Force. Remove the protective cover and strike it against the ground to activate. The rod releases bright flames or…"}
+{"id": "13130000169", "desc": "Silent Suppressor — Attachment in Delta Force. Weight: 1.21 kg, Size: 1×1, Reference Price: 33,079."}
+{"id": "14030000001", "desc": "Simple Surgical Kit — Consumable in Delta Force. Removes all debuffs on 1 body part with up to 2 uses. Activation Time: 10s. Weight: 0.1 kg, Size: 1×1…"}
+{"id": "13040000185", "desc": "Skeleton Sniper Stock — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 17,303."}
+{"id": "13050000254", "desc": "SKS Advanced Handguard — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 37,611."}
+{"id": "13020000406", "desc": "SKS Cutoff Standard Barrel — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 37,434."}
+{"id": "13020000407", "desc": "SKS Instant Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.31 kg, Size: 1×2, Reference Price: 37,514."}
+{"id": "18050000006", "desc": "SKS Marksman Rifle — Weapon in Delta Force. A reliable and flexible semi-automatic rifle that fires 7.62x39mm rounds and has good handling and fire rate…"}
+{"id": "11080001001", "desc": "Sling Bag — Gear in Delta Force. A lightweight and portable backpack, ideal for quick operations and short missions, capable of storing basic medical…"}
+{"id": "15080050034", "desc": "SLR Camera — Collectible in Delta Force. An SLR camera featuring high-resolution imaging, a fast autofocus system, and interchangeable lens support. It…"}
+{"id": "15050300033", "desc": "Small Train Station Ticket Office — Keycard in Delta Force. Found at 1 location. Used to open the Small Train Station Ticket Office. Uses: 20, Weight…"}
+{"id": "15060010003", "desc": "Small Vial — Collectible in Delta Force. Medical item. Made out of glass. Used as a container for storing pills, capsules, and health products. Weight…"}
+{"id": "13130000172", "desc": "SMG Echo Suppressor — Attachment in Delta Force. Weight: 1.03 kg, Size: 1×1, Reference Price: 35,486."}
+{"id": "13120000318", "desc": "SMG-45 40-Round Extended Mag — Attachment in Delta Force. Weight: 0.11 kg, Size: 2×1, Reference Price: 16,500."}
+{"id": "13020000425", "desc": "SMG-45 Bamboo Rat Short Barrel — Attachment in Delta Force. Weight: 0.26 kg, Size: 1×2, Reference Price: 19,476."}
+{"id": "13040000092", "desc": "SMG-45 End Cap — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×1, Reference Price: 3,298."}
+{"id": "13020000523", "desc": "SMG-45 Fission Long Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 20,550."}
+{"id": "13020000424", "desc": "SMG-45 Longbow Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.28 kg, Size: 1×2, Reference Price: 19,468."}
+{"id": "13020000423", "desc": "SMG-45 Practical Heavy Barrel — Attachment in Delta Force. Weight: 0.31 kg, Size: 1×2, Reference Price: 11,114."}
+{"id": "18020000006", "desc": "SMG-45 Submachine Gun — Weapon in Delta Force. The SMG-45 fires .45 rounds and has superior ergonomics and stable performance. Capacity: 25, Damage: 35…"}
+{"id": "15080050003", "desc": "Smoothbore Gun Exhibit — Collectible in Delta Force. A rare and historically significant Ahsarah smoothbore gun used in the independence wars against…"}
+{"id": "15040010012", "desc": "Outlet Extender — Collectible in Delta Force. Miscellaneous. A kind of circuit converter. Weight: 0.2 kg, Size: 1×1, Reference Price: 2,068."}
+{"id": "15040010022", "desc": "Socket Adapter — Collectible in Delta Force. Miscellaneous. An adapter for all kinds of sockets, including USB/Type-C outputs and variable voltage…"}
+{"id": "15080010004", "desc": "Solar Dish — Collectible in Delta Force. Colorful and very pretty. Weight: 0.2 kg, Size: 2×2, Reference Price: 4,545."}
+{"id": "15030050016", "desc": "Solar Panel — Collectible in Delta Force. Electronic product. A core component of solar power systems. Weight: 2.26 kg, Size: 2×4, Reference Price: 25,920."}
+{"id": "15080050101", "desc": "Solid Fuel — Collectible in Delta Force. A solid combustible material and non-clean energy source. Be mindful of the environmental pollution from ash…"}
+{"id": "15020010010", "desc": "Sonic Distance Tape Measure — Collectible in Delta Force. Tool & material. A sonic measurement tool that quickly and accurately measures distances using…"}
+{"id": "15060080016", "desc": "Soy Protein Powder Packet — Collectible in Delta Force. A plant-based protein supplement that is derived from soybeans and has a complete amino acid…"}
+{"id": "15050300008", "desc": "Spades Room — Keycard in Delta Force. Found at 2 locations. Used to open the Spades Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15020050005", "desc": "Special Steel — Collectible in Delta Force. Tool & material. Features high strength and corrosion resistance, ideal for manufacturing high-quality…"}
+{"id": "15020050001", "desc": "Spinning Handsaw — Collectible in Delta Force. Tool & material. Utilizes rotating blades to achieve smooth cutting effects, suitable for sawing or…"}
+{"id": "15080040001", "desc": "Spinosaurus Claw Fossil — Collectible in Delta Force. The claw of a Spinosaurus. Recorded in Ahsarah archives as one of the largest known dinosaurs to…"}
+{"id": "13130000209", "desc": "Spiral Fire Flash Hider — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 24,734."}
+{"id": "11080001002", "desc": "Sports Backpack — Gear in Delta Force. A durable, medium-capacity backpack, ideal for long-distance raids. It's waterproof and can store food and water…"}
+{"id": "15020010030", "desc": "Spray Paint — Collectible in Delta Force. Tool & material. A painting tool that can spray colors on various surfaces. Can be used to meet a wide range of…"}
+{"id": "15040010015", "desc": "Spy Pen — Collectible in Delta Force. A common spy tool used by the G.T.I., capable of recording video and audio data at sensitive locations. It can save…"}
+{"id": "13120000150", "desc": "SR-25 20-Round Mag — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 19,218."}
+{"id": "13120000331", "desc": "SR-25 30-Round Extended Mag — Attachment in Delta Force. Weight: 0.3 kg, Size: 2×1, Reference Price: 35,457."}
+{"id": "13050000178", "desc": "SR-25 Elite Handguard — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 20,443."}
+{"id": "13020000398", "desc": "SR-25 Instant Short Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 35,616."}
+{"id": "18050000007", "desc": "SR-25 Marksman Rifle — Weapon in Delta Force. A 7.62x51mm caliber semi-auto rifle that features the AR system and offers excellent ergonomics and…"}
+{"id": "13020000396", "desc": "SR-25 Nova Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.36 kg, Size: 1×2, Reference Price: 35,691."}
+{"id": "13020000397", "desc": "SR-25 Zephyr Long Barrel — Attachment in Delta Force. Weight: 0.32 kg, Size: 1×2, Reference Price: 35,784."}
+{"id": "13040000195", "desc": "SR-3M End Cap — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 5,144."}
+{"id": "13020000522", "desc": "SR-3M Cast Steel Tactical Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 25,523."}
+{"id": "18020000008", "desc": "SR-3M Compact Assault Rifle — Weapon in Delta Force. The SR-3M is a compact, powerful assault rifle made in Russia. It fires 9x39mm special rounds…"}
+{"id": "13130000211", "desc": null}
+{"id": "15030040005", "desc": "SSD — Collectible in Delta Force. Electronic product. Solid state drive, a hard disk made from an array of solid-state electronic chips. Weight: 0.04 kg…"}
+{"id": "13330000001", "desc": "Stable Grip Base — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 17,769."}
+{"id": "14070000006", "desc": "Stamina Activator — Consumable in Delta Force. Increases Max Stamina and Stamina Recovery Speed for 180s. Weight: 0.1 kg, Size: 1×1, Reference Price…"}
+{"id": "14070000007", "desc": "Stamina Booster — Consumable in Delta Force. Increases Max Stamina and Stamina Recovery Speed for 300s. Weight: 0.1 kg, Size: 1×1, Reference Price: 24,375."}
+{"id": "15090910022", "desc": null}
+{"id": "14060000005", "desc": "Standard Helmet Repair Kit — Consumable in Delta Force. An in-match repair tool for Lv.4 Gear that can quickly restore helmet durability. Each plate…"}
+{"id": "11050003001", "desc": "Standard Issue Vest — Gear in Delta Force. A high-quality ballistic vest reserved for Ahsarah's elite soldiers. Meets ballistic standards Lv.3…"}
+{"id": "14060000006", "desc": "Standard Vest Repair Kit — Consumable in Delta Force. An in-match repair tool for Lv.4 Gear that can quickly restore vest durability. Each plate consumes…"}
+{"id": "11010001001", "desc": "Steel Helmet — Gear in Delta Force. Made from thin steel that offers limited protection. Protection Level: 1, Durability: 10, Weight: 1.01 kg."}
+{"id": "13130000158", "desc": "Steel Muzzle Brake — Attachment in Delta Force. Weight: 0.37 kg, Size: 1×1, Reference Price: 9,404."}
+{"id": "15080050057", "desc": "Sterile Dressing Pack — Collectible in Delta Force. A medical sterile dressing pack containing various sizes of gauze and cotton swabs, pre-applied with…"}
+{"id": "15060010006", "desc": "Stethoscope — Collectible in Delta Force. Medical item. A diagnostic tool used to amplify and collect sounds from the heart, lungs, arteries, veins, and…"}
+{"id": "15080050084", "desc": "Sledgehammer — Collectible in Delta Force. A sturdy tool made from steel, it is perfect for construction and demolition tasks. Its comfortable handle…"}
+{"id": "15050100009", "desc": "Substation Dormitory — Keycard in Delta Force. Found at 1 location. Used to open the Substation Dormitory. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050100008", "desc": "Substation Tech Room — Keycard in Delta Force. Found at 1 location. Used to open the Substation Tech Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15080050076", "desc": "Chocolate — Collectible in Delta Force. A special triangular dessert decorated with edible gold edges, extremely high in calories. Weight: 0.2 kg, Size…"}
+{"id": "15060080004", "desc": "Sugar Free Energy Bar — Collectible in Delta Force. An energy bar made of carbohydrates and protein, perfect for post-workout muscle recovery and energy…"}
+{"id": "15080050080", "desc": "Super Glue — Collectible in Delta Force. High-strength adhesive capable of quickly bonding various materials such as metal, plastic, and ceramic, and is…"}
+{"id": "15060010002", "desc": "Surgical Forceps — Collectible in Delta Force. Medical item. Used to grip and lift tissues. Don't forget to disinfect it before every use. Weight: 0.2…"}
+{"id": "15060010009", "desc": "Surgical Gloves — Collectible in Delta Force. Medical item. This medical item can prevent bacterial infection. Weight: 0.01 kg, Size: 1×1, Reference…"}
+{"id": "15060010008", "desc": "Surgical Scissors — Collectible in Delta Force. Medical item. Surgical scissors are commonly used in clinical operations. Their tips can be inserted into…"}
+{"id": "13020000291", "desc": "SV-98 Agile Short Barrel — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×3, Reference Price: 19,622."}
+{"id": "13170000003", "desc": "SV-98 Bipod — Attachment in Delta Force. Weight: 0.75 kg, Size: 2×1, Reference Price: 4,893."}
+{"id": "13020000231", "desc": "SV-98 Dragonfly Light Barrel — Attachment in Delta Force. Weight: 0.39 kg, Size: 1×3, Reference Price: 19,483."}
+{"id": "18060000007", "desc": "SV-98 Sniper Rifle — Weapon in Delta Force. A 7.62x54R bolt-action sniper rifle that has moderate muzzle velocity but extremely high accuracy. Enemies…"}
+{"id": "13020000230", "desc": "SV-98 Sublime Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.42 kg, Size: 1×3, Reference Price: 19,522."}
+{"id": "13120000300", "desc": "SVD 20-Round Mag — Attachment in Delta Force. Weight: 0.21 kg, Size: 2×1, Reference Price: 17,322."}
+{"id": "13020000403", "desc": "SVD Black Thorn Ultra-Long Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 23,050."}
+{"id": "13030000184", "desc": "SVD Grip Adapter — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 3,295."}
+{"id": "13050000249", "desc": "SVD Polymer Handguard — Attachment in Delta Force. Weight: 0.38 kg, Size: 1×2, Reference Price: 13,235."}
+{"id": "13030000124", "desc": "SVD Polymer Integral Stock — Attachment in Delta Force. Weight: 0.22 kg, Size: 1×2, Reference Price: 26,297."}
+{"id": "13020000402", "desc": "SVD Practical Long Barrel — Attachment in Delta Force. Weight: 0.31 kg, Size: 1×2, Reference Price: 13,228."}
+{"id": "13050000250", "desc": "SVD Rail Handguard — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 22,953."}
+{"id": "18050000004", "desc": "SVD Sniper Rifle — Weapon in Delta Force. The SVD is a semi-automatic sniper rifle developed by the Soviet Union. It fires 7.62x54R rounds and is known…"}
+{"id": "13140000027", "desc": "Tactical Angled Foregrip — Attachment in Delta Force. Weight: 0.16 kg, Size: 1×1, Reference Price: 19,241."}
+{"id": "11080002002", "desc": "Tactical QR Backpack — Gear in Delta Force. A tactical backpack designed for emergencies, equipped with a quick-release system for rapid gear adjustments…"}
+{"id": "14030000002", "desc": "Tactical Quick-Use Surgical Kit — Consumable in Delta Force. Removes all debuffs on 1 body part with up to 4 uses. Activation Time: 7s. Weight: 0.2 kg…"}
+{"id": "13140000032", "desc": "Tactical Vertical Foregrip — Attachment in Delta Force. Weight: 0.16 kg, Size: 1×1, Reference Price: 19,161."}
+{"id": "15050200005", "desc": "Test Range Core — Keycard in Delta Force. Found at 2 locations. Used to open the Test Range Core. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050200003", "desc": "Test Range Data Center — Keycard in Delta Force. Found at 1 location. Used to open the Test Range Data Center. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050200011", "desc": "Test Range Glass Room — Keycard in Delta Force. Found at 1 location. Used to open the Test Range Glass Room. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "11050002003", "desc": "TG Tactical Vest — Gear in Delta Force. A ballistic vest developed by DF Squad for flexible operations and better comfort. Its high expandability allows…"}
+{"id": "11050003003", "desc": "TG-H Vest — Gear in Delta Force. Meets ballistic standards Lv.3 with additional abdominal protection. The increased coverage significantly affects…"}
+{"id": "15050100006", "desc": "Ticket Office — Keycard in Delta Force. Found at 1 location. Used to open the Ticket Office. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "13130000166", "desc": "Titan Compensator — Attachment in Delta Force. Weight: 0.73 kg, Size: 1×1, Reference Price: 35,579."}
+{"id": "13130000183", "desc": "Titan Suppressor — Attachment in Delta Force. Weight: 1.2 kg, Size: 1×1, Reference Price: 35,644."}
+{"id": "11050006004", "desc": "Titan Vest — Gear in Delta Force. G.T.I. T&E Lab's high-performance ballistic vest designed for large-area, full-coverage protection. Features the…"}
+{"id": "15020050006", "desc": "Titanium Alloy — Collectible in Delta Force. Tool & material. Sturdy and durable. Robust in harsh environments and intensive use. USAGE: Can be used to…"}
+{"id": "13130000160", "desc": "Titanium Contest Muzzle Brake — Attachment in Delta Force. Weight: 0.75 kg, Size: 1×1, Reference Price: 35,697."}
+{"id": "15020040001", "desc": "Tool Kit — Collectible in Delta Force. Tool & material. A container for storing tools and various household miscellaneous items, suitable for production…"}
+{"id": "15010010004", "desc": "Toothpaste — Collectible in Delta Force. Medical Item. Keeps teeth white, gum healthy, and prevents bad breath. Weight: 0.15 kg, Size: 2×1, Reference…"}
+{"id": "15080050044", "desc": "Top Secret Server — Collectible in Delta Force. A server cabinet, storing highly classified intelligence, has been assessed as a high-performance…"}
+{"id": "15050300026", "desc": "Town Diner — Keycard in Delta Force. Found at 2 locations. Used to open the Town Diner. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15090910019", "desc": null}
+{"id": "11080001003", "desc": "Travel Backpack — Gear in Delta Force. A large backpack designed for long-distance marches. It has multiple compartments and is suitable for storing…"}
+{"id": "11050006003", "desc": "Trek MAS2.0 Vest — Gear in Delta Force. Developed by DF Squad, the Trek Modular Armor System (MAS2.0) offers full upper-body protection. It meets…"}
+{"id": "15030040011", "desc": "UHF Card Reader — Collectible in Delta Force. Electronic product. The UHF card reader is built in with high-performance modules and antennas, and coupled…"}
+{"id": "13160000015", "desc": "Underbarrel Pistol Light — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 9,389."}
+{"id": "15050400001", "desc": "Underground Vault Storage — Keycard in Delta Force. Found at 3 locations. Used to open the Underground Vault Storage. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "13290000001", "desc": "Universal Cheek Pad — Attachment in Delta Force. Weight: 0.41 kg, Size: 1×1, Reference Price: 9,455."}
+{"id": "11070002004", "desc": "Universal Tactical Chest Rig — Gear in Delta Force. A versatile chest rig compatible with various gear modules, perfect for carrying ammo and survival…"}
+{"id": "11050002004", "desc": "Universal Tactical Vest — Gear in Delta Force. Protective gear designed by the G.T.I.'s T&E Lab. Its quick-release design allows the wearer to react…"}
+{"id": "13040000110", "desc": "UR Spec Ops Tactical Stock — Attachment in Delta Force. Weight: 0.52 kg, Size: 1×2, Reference Price: 35,635."}
+{"id": "13120000279", "desc": "UZI 35-Round Mag — Attachment in Delta Force. Weight: 0.15 kg, Size: 2×1, Reference Price: 4,590."}
+{"id": "13120000280", "desc": "UZI 45-Round Mag — Attachment in Delta Force. Weight: 0.18 kg, Size: 2×1, Reference Price: 6,035."}
+{"id": "13020000433", "desc": "UZI Assault Standard Barrel — Attachment in Delta Force. Weight: 0.29 kg, Size: 1×2, Reference Price: 8,074."}
+{"id": "13040000197", "desc": "UZI End Cap — Attachment in Delta Force. Weight: 0.1 kg, Size: 1×1, Reference Price: 1,614."}
+{"id": "13020000432", "desc": "UZI Competition Performance Long Barrel — Attachment in Delta Force. Weight: 0.27 kg, Size: 1×2, Reference Price: 8,007."}
+{"id": "13050000280", "desc": "UZI Performance Handguard — Attachment in Delta Force. Weight: 0.22 kg, Size: 1×2, Reference Price: 16,051."}
+{"id": "13020000434", "desc": "UZI Quartermaster Long Barrel — Attachment in Delta Force. Weight: 0.3 kg, Size: 1×2, Reference Price: 8,058."}
+{"id": "13050000281", "desc": "UZI Rail Handguard — Attachment in Delta Force. Weight: 0.25 kg, Size: 1×2, Reference Price: 8,039."}
+{"id": "13040000130", "desc": null}
+{"id": "18020000004", "desc": "UZI Submachine Gun — Weapon in Delta Force. The Israeli-made UZI Submachine Gun fires 9x19mm rounds, featuring a compact size and high fire rate. It is…"}
+{"id": "13120000271", "desc": "Vector 30-Round Extended Mag — Attachment in Delta Force. Weight: 0.21 kg, Size: 2×1, Reference Price: 14,272."}
+{"id": "13120000272", "desc": "Vector 40-Round Extended Mag — Attachment in Delta Force. Weight: 0.16 kg, Size: 2×1, Reference Price: 26,759."}
+{"id": "13120000273", "desc": "Vector 70-Round Extended C-Mag — Attachment in Delta Force. Weight: 0.36 kg, Size: 2×2, Reference Price: 35,523."}
+{"id": "13020000420", "desc": "Vector Bastion Heavy Barrel Combo — Attachment in Delta Force. Weight: 0.45 kg, Size: 1×2, Reference Price: 71,515."}
+{"id": "13040000173", "desc": "Vector End Cap — Attachment in Delta Force. Weight: 0.18 kg, Size: 1×1, Reference Price: 7,115."}
+{"id": "13020000421", "desc": "Vector Longsword Ultra-Long Barrel Combo — Attachment in Delta Force. Weight: 0.43 kg, Size: 1×2, Reference Price: 35,525."}
+{"id": "13020000419", "desc": "Vector Rail Barrel Combo — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 20,263."}
+{"id": "13040000123", "desc": "Vector Resonant Integral Stock — Attachment in Delta Force. Weight: 0.71 kg, Size: 1×2, Reference Price: 71,091."}
+{"id": "18020000003", "desc": "Vector Submachine Gun — Weapon in Delta Force. A .45 caliber fully-automatic submachine gun with an extremely fast fire rate that allows it to deal…"}
+{"id": "14020000002", "desc": "Vehicle First Aid Kit — Consumable in Delta Force. 90 Durability. Recovers 6 HP per second. Activation Time: 5s. Weight: 0.2 kg, Size: 1×1, Reference…"}
+{"id": "15060040004", "desc": "Ventilator — Collectible in Delta Force. Medical item. Provides oxygen and controls the breathing rate of patients. It can assist or replace the…"}
+{"id": "13140000025", "desc": "VFG Knight Foregrip — Attachment in Delta Force. Weight: 0.14 kg, Size: 1×1, Reference Price: 9,432."}
+{"id": "15030010012", "desc": "Video Camera — Collectible in Delta Force. Electronic product. Can shoot high-quality videos with 16K resolution and 240 fps. Weight: 2.35 kg, Size: 2×2…"}
+{"id": "13110000073", "desc": "Viewpoint 3x Scope — Attachment in Delta Force. Weight: 0.6 kg, Size: 1×1, Reference Price: 25,725."}
+{"id": "15080050073", "desc": "Vitamin Effervescent Tablets — Collectible in Delta Force. Orange-flavored, used to supplement vitamins by dissolving effervescent tablets in 200ml of…"}
+{"id": "13120000307", "desc": "Vityaz 45-Round Extended Mag — Attachment in Delta Force. Weight: 0.11 kg, Size: 1×1, Reference Price: 16,578."}
+{"id": "13020000507", "desc": "Vityaz Beaver Barrel — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×2, Reference Price: 16,473."}
+{"id": "18020000009", "desc": "Vityaz Submachine Gun — Weapon in Delta Force. Improved from the PP-19 Bizon, the PP-19 Vityaz is chambered in 9x19mm and supports a wide range of…"}
+{"id": "13020000506", "desc": "Vityaz Tactical Barrel — Attachment in Delta Force. Weight: 0.15 kg, Size: 1×2, Reference Price: 16,460."}
+{"id": "15020010020", "desc": "Voltage Tester — Collectible in Delta Force. Tool & material. An electrician's tool. Weight: 0.1 kg, Size: 1×1, Reference Price: 2,256."}
+{"id": "13130000180", "desc": "Vortex Flash Hider — Attachment in Delta Force. Weight: 0.91 kg, Size: 1×1, Reference Price: 19,169."}
+{"id": "13120000253", "desc": "VSS 30-Round Mag — Attachment in Delta Force. Weight: 0.31 kg, Size: 2×1, Reference Price: 13,624."}
+{"id": "13120000254", "desc": "VSS 45-Round Mag — Attachment in Delta Force. Weight: 0.21 kg, Size: 2×1, Reference Price: 35,511."}
+{"id": "13030000125", "desc": "VSS Elite Integral Stock — Attachment in Delta Force. Weight: 0.73 kg, Size: 1×2, Reference Price: 71,070."}
+{"id": "18050000003", "desc": "VSS Marksman Rifle — Weapon in Delta Force. The VSS Marksman Rifle is a highly specialized Russian rifle. It fires 9x39mm subsonic rounds and features an…"}
+{"id": "13020000410", "desc": "VSS Tsunami Long Barrel Combo — Attachment in Delta Force. Weight: 0.35 kg, Size: 1×2, Reference Price: 71,562."}
+{"id": "11050004001", "desc": "Warrior Vest — Gear in Delta Force. A slightly stylized ballistic vest that seems to be favored by Ahsarah forces. Meets ballistic standards Lv.4…"}
+{"id": "15020010002", "desc": "Waterproof Tape — Collectible in Delta Force. Tool & material. Tape made of waterproof rubber used in channel impermeability work. Also works for water…"}
+{"id": "15080050008", "desc": "Weird Pirate Silver Coin — Collectible in Delta Force. An ancient Ahsarah pirate silver coin. It carries a peculiar atmosphere. Weight: 0.68 kg, Size…"}
+{"id": "15050200007", "desc": "West Gate — Keycard in Delta Force. Found at 1 location. Used to open the West Gate. Uses: 40, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050400008", "desc": "West Town Residential Bedroom — Keycard in Delta Force. Found at 2 locations. Used to open the West Town Residential Bedroom. Uses: 20, Weight: 0.05 kg…"}
+{"id": "15050100013", "desc": "West Wing Control Room — Keycard in Delta Force. Found at 1 location. Used to open the West Wing Control Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050100011", "desc": "West Wing Infirmary — Keycard in Delta Force. Found at 1 location. Used to open the West Wing Infirmary. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "15050100014", "desc": "West Wing Monitoring Room — Keycard in Delta Force. Found at 1 location. Used to open the West Wing Monitoring Room. Uses: 20, Weight: 0.05 kg, Size: 1×1."}
+{"id": "13130000164", "desc": "Whisper Tactical Suppressor — Attachment in Delta Force. Weight: 1.02 kg, Size: 1×1, Reference Price: 35,698."}
+{"id": "15080050037", "desc": "Wide-Angle Lens — Collectible in Delta Force. The wide-angle lens offers an expansive field of view, making it ideal for capturing large-scale scenes…"}
+{"id": "15020010012", "desc": "Wire — Collectible in Delta Force. Tool & material. A current conductor made of copper, aluminum, and other high-conductivity materials. Weight: 0.2 kg…"}
+{"id": "15020010008", "desc": "Wood Board — Collectible in Delta Force. Tool & material. Made of solid wood, it is strong and durable with natural grain, commonly used in construction…"}
+{"id": "15080050075", "desc": "Wooden Carved Pipe — Collectible in Delta Force. Handcrafted by Ahsarah artisans using high-quality wood, practical and lightweight, with beautiful…"}
+{"id": "13140000035", "desc": "X25U Angled Combat Grip — Attachment in Delta Force. Weight: 0.21 kg, Size: 1×1, Reference Price: 19,294."}
+{"id": "13110000053", "desc": "XCOG Assault 3.5x Scope — Attachment in Delta Force. Weight: 0.95 kg, Size: 1×2, Reference Price: 25,501."}
+{"id": "13030000127", "desc": "XK Anti-Slip Rear Grip — Attachment in Delta Force. Weight: 0.16 kg, Size: 1×1, Reference Price: 5,447."}
+{"id": "13030000129", "desc": "XK Competition Rear Grip — Attachment in Delta Force. Weight: 0.2 kg, Size: 1×1, Reference Price: 7,246."}
+{"id": "13030000128", "desc": "XK Rubber Coated Rear Grip — Attachment in Delta Force. Weight: 0.18 kg, Size: 1×1, Reference Price: 5,453."}
+{"id": "13110000044", "desc": "XRO Quick Response Sight — Attachment in Delta Force. Weight: 0.4 kg, Size: 1×1, Reference Price: 10,223."}
+{"id": "15060080002", "desc": "Yogurt — Collectible in Delta Force. A fermented dairy product with a unique taste. Rich in nutrients and can improve digestion and immunity. Weight…"}
+{"id": "13140000028", "desc": "ZFSG Tactical Grip — Attachment in Delta Force. Weight: 0.17 kg, Size: 1×1, Reference Price: 3,224."}

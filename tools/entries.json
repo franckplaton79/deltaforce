@@ -1,0 +1,24 @@
+{
+ "arsenal.html": {
+  "AN‑94": "arsenal-an94.jpg",
+  "K437": "arsenal-k437.jpg",
+  "M7": "arsenal-m7.jpg",
+  "MCX LT": "arsenal-mcxl.jpg",
+  "M4A1": "arsenal-m4a1.jpg",
+  "SR‑25 HVK": "arsenal-sr25.jpg",
+  "PKM Bullpup": "arsenal-pkm.jpg",
+  "M250 Monolith": "arsenal-m250.jpg",
+  "Thompson": "arsenal-thompson.jpg",
+  "AKM": "arsenal-akm.jpg",
+  "Arc composite": "arsenal-arc.jpg",
+  "G17 en Détonation": "arsenal-g17.jpg"
+ },
+ "operateurs.html": {
+  "Martelo, assaut, la nouvelle venue": "op-martelo.jpg",
+  "Rover, soutien, l’information par le bruit": "op-rover.jpg",
+  "Nox, assaut, la pression": "op-nox.jpg",
+  "N‑Two, ingénieur, le froid": "op-ntwo.jpg",
+  "Shepherd, soutien, à reconsidérer": "op-shepherd.jpg",
+  "D‑Wolf, assaut, la mobilité": "op-dwolf.jpg"
+ }
+}

@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Opérateurs et classes · Delta Force Ultimate Guide</title>
+<meta name="description" content="Les quatre classes de Delta Force, ce qu’apporte chaque opérateur majeur, et comment choisir selon le besoin réel de l’équipe.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar"><div class="wrap navrow">
+<a class="brand" href="index.html" aria-label="Delta Force Ultimate Guide, accueil"><span class="brand-mark">Δ</span><span>DELTA FORCE <b>Ultimate Guide</b></span></a>
+<div class="navwrap" id="navLinks"><div class="mmenu"><div class="mmenu-bar"><button class="mmenu-toggle" id="mmenuToggle" aria-expanded="false" aria-controls="mmenuPanel"><span class="mmenu-burger" aria-hidden="true"><i></i><i></i><i></i></span><span class="mmenu-word">MENU</span></button><div class="mmenu-chips"><a class="mmenu-chip chip-home" href="index.html">Accueil</a><a class="mmenu-chip" href="memo.html">Mémo du jeu</a><a class="mmenu-chip" href="db.html">Base de données</a><a class="mmenu-chip" href="saison.html">Saison Aurora</a></div></div><div class="mmenu-panel" id="mmenuPanel" hidden><div class="mmenu-cols"><div class="mmenu-col"><p class="mmenu-title">Démarrer</p><a href="debuter.html"><b>Débuter</b><span>Les premières heures, sans brûler son équipement</span></a><a href="progression.html"><b>Progression</b><span>Monter un compte : missions, site noir, cache</span></a><a href="economie.html"><b>Économie</b><span>Rentabilité d’un raid, ventes, coffre sécurisé</span></a><a href="reglages.html"><b>Réglages et sécurité</b><span>Commandes, HUD, anti-triche</span></a></div><div class="mmenu-col"><p class="mmenu-title">Terrain</p><a href="cartes.html"><b>Cartes</b><span>Routes types et pièges de terrain</span></a><a href="sorties.html"><b>Sorties</b><span>Ce que chaque extraction exige</span></a><a href="spacecity.html"><b>Space City</b><span>Sorties à commutateur et Polaris Patrol</span></a><a href="zenith.html"><b>Zenith Port</b><span>Riptide, toits, thermobarique</span></a></div><div class="mmenu-col"><p class="mmenu-title">Combattre</p><a href="balistique.html"><b>Balistique</b><span>Pénétration, armure et nombre de balles</span></a><a href="munitions.html"><b>Munitions et armures</b><span>Quel niveau perce quoi</span></a><a href="arsenal.html"><b>Arsenal</b><span>Armes Aurora, builds, codes à importer</span></a><a href="operateurs.html" class="is-current"><b>Opérateurs</b><span>Choisir un rôle utile à l’équipe</span></a><a href="warfare.html"><b>Warfare</b><span>Rôles, véhicules, anti-blindé</span></a><a href="detonation.html"><b>Détonation</b><span>5v5 bombe : économie et manches</span></a></div><div class="mmenu-col"><p class="mmenu-title">Ressources</p><a href="butin.html"><b>Quel butin prendre</b><span>Le classement par valeur réelle</span></a><a href="objets.html"><b>Objets</b><span>Ce qui protège, soigne ou se revend</span></a><a href="saison.html"><b>Saison Aurora</b><span>Correctifs, calendrier, codes, routine</span></a></div><div class="mmenu-col"><p class="mmenu-title">Base</p><a href="db.html"><b>Base de données</b><span>919 fiches en cinq pages</span></a><a href="db-armes.html"><b>Armes</b><span>Les 50 armes, icônes et valeurs</span></a><a href="db-munitions.html"><b>Munitions</b><span>Les 71 munitions et leur pénétration</span></a><a href="db-equipement.html"><b>Équipement</b><span>Casques, gilets, sacs, protections</span></a><a href="db-collectibles.html"><b>Collectibles</b><span>Les 272 objets de collection</span></a><a href="db-cartes.html"><b>Cartes d’accès</b><span>Les 59 clés et ce qu’elles ouvrent</span></a><a href="db-consommables.html"><b>Consommables</b><span>Les 30 soins et kits</span></a><a href="db-accessoires.html"><b>Accessoires</b><span>Les 433 accessoires d’armes</span></a></div><div class="mmenu-col"><p class="mmenu-title">Repères</p><a href="memo.html"><b>Mémo du jeu</b><span>La synthèse en une page : règles, chiffres, dates</span></a><a href="conseils.html"><b>Conseils de joueurs</b><span>Ce que retiennent les chaînes françaises</span></a><a href="audio.html"><b>Briefings audio</b><span>Neuf mémos en français</span></a><a href="plan.html"><b>Plan du site</b><span>Toutes les pages, tous les sujets</span></a><a href="sources.html"><b>Sources</b><span>D’où vient chaque information</span></a></div></div><div class="mmenu-foot"><span>30 pages · tout en français · sources datées</span><a href="plan.html">Voir le plan détaillé →</a></div></div></div><div class="mmenu-scroll" aria-label="Navigation rapide"><a href="debuter.html">Débuter</a><a href="progression.html">Progression</a><a href="economie.html">Économie</a><a href="reglages.html">Réglages et sécurité</a><a href="cartes.html">Cartes</a><a href="sorties.html">Sorties</a><a href="spacecity.html">Space City</a><a href="zenith.html">Zenith Port</a><a href="balistique.html">Balistique</a><a href="munitions.html">Munitions et armures</a><a href="arsenal.html">Arsenal</a><a href="operateurs.html">Opérateurs</a><a href="warfare.html">Warfare</a><a href="detonation.html">Détonation</a><a href="butin.html">Quel butin prendre</a><a href="objets.html">Objets</a><a href="saison.html">Saison Aurora</a><a href="db.html">Base de données</a><a href="db-armes.html">Armes</a><a href="db-munitions.html">Munitions</a><a href="db-equipement.html">Équipement</a><a href="db-collectibles.html">Collectibles</a><a href="db-cartes.html">Cartes d’accès</a><a href="db-consommables.html">Consommables</a><a href="db-accessoires.html">Accessoires</a><a href="memo.html">Mémo du jeu</a><a href="conseils.html">Conseils de joueurs</a><a href="audio.html">Briefings audio</a><a href="plan.html">Plan du site</a><a href="sources.html">Sources</a></div></div>
+<div class="nav-actions">
+<div class="quick-search"><input id="quickSearch" type="search" placeholder="Chercher sur cette page" aria-label="Chercher sur cette page" autocomplete="off"><div id="quickResults" class="quick-results" role="listbox"></div></div>
+<a class="btn small" href="plan.html">Plan du site</a>
+<button class="icon-btn" id="themeToggle" aria-label="Changer le thème" title="Contraste">◐</button>
+</div>
+</div></header>
+<main class="wrap">
+<section class="page-head">
+<div class="section-kicker">08 · Opérateurs</div>
+<h1>Choisir un rôle, pas une liste de rangs</h1>
+<p class="lead">Les classements d’opérateurs circulent beaucoup et se contredisent d’un site à l’autre, souvent parce qu’ils mélangent Operations et Warfare. Ici, on part du problème à résoudre : entrer, tenir, soigner, informer.</p>
+<div class="tag-row"><span class="tag">4 classes</span><span class="tag warn">Pas de tier list officielle</span></div>
+</section>
+
+<section class="page-body">
+<figure class="page-figure"><img src="assets/entries/op-classes.jpg" alt="Quatre opérateurs en formation dans un parking souterrain inondé, équipements différents"><figcaption>Quatre classes, quatre réponses différentes au même problème : entrer, tenir, soigner, informer.</figcaption></figure>
+<h2>Les quatre classes, et à quoi elles servent</h2>
+<p><strong>Assaut</strong> : ouvrir une position et survivre au premier contact. C’est la classe qui crée l’espace pour les autres. <strong>Ingénieur</strong> : contrôler le terrain et traiter les blindés, avec des gadgets qui ralentissent ou bloquent. <strong>Soutien</strong> : maintenir l’équipe debout, entre soins, relève et ravitaillement. <strong>Reconnaissance</strong> : apporter l’information avant que la poussée commence.</p>
+<p>Une équipe qui empile trois assauts manque de relève ; une équipe sans reconnaissance entre à l’aveugle ; une équipe sans ingénieur subit les véhicules. Le déséquilibre coûte souvent plus cher que le choix individuel.</p>
+
+<h2>Les opérateurs qui comptent en Aurora</h2>
+<article class="card">
+<div class="entry-img"><img src="assets/entries/op-martelo.jpg" alt="Martelo, assaut, la nouvelle venue" loading="lazy" width="640" height="360"></div>
+<h3>Martelo, assaut, la nouvelle venue</h3>
+<p>Veronica Cardozo arrive avec un kit entièrement tourné vers la fermeture de distance. Sa charge <em>Ariete</em> réduit les dégâts frontaux et se termine par une frappe lourde qui met à terre en touchant un ennemi ou un mur ; on peut aussi l’interrompre par un saut écrasant. <em>Smoke Halo</em> pose un anneau de fumée autour d’elle, ou une seule cartouche visée si on maintient la touche. Elle porte aussi une grenade explosive, et son trait <em>Guerreira</em> accélère déplacement et rechargement après une mise à terre ou sous un seuil de vie.</p>
+<p>Le correctif du 12 novembre a rendu sa fumée plus discrète : l’atténuation sonore porte à cinquante mètres, et le bruit mécanique de rotation n’est audible que par elle. En clair, elle peut tourner sa fumée sans s’annoncer.</p>
+</article>
+
+<article class="card">
+<div class="entry-img"><img src="assets/entries/op-rover.jpg" alt="Rover, soutien, l’information par le bruit" loading="lazy" width="640" height="360"></div>
+<h3>Rover, soutien, l’information par le bruit</h3>
+<p>Clover détecte désormais selon le bruit réellement produit : une course se repère de loin, une marche silencieuse beaucoup moins. Le drone peut aussi bondir sur une cible à distance. La portée de détection de la fusée éclairante est passée de quarante à quarante-cinq mètres, et Rover voit maintenant la position de Clover sur la mini-carte ainsi que les parties du corps endommagées de ses coéquipiers.</p>
+</article>
+
+<article class="card">
+<div class="entry-img"><img src="assets/entries/op-nox.jpg" alt="Nox, assaut, la pression" loading="lazy" width="640" height="360"></div>
+<h3>Nox, assaut, la pression</h3>
+<p>Son attaque silencieuse ne s’allonge plus quand il est le dernier survivant, et son passif de Warfare s’appelle désormais <em>Revenant</em>. Les valeurs de durée (vingt-cinq secondes seul, quinze secondes à deux ou trois Nox) en font une capacité à jouer en groupe plutôt qu’en héros solitaire.</p>
+</article>
+
+<article class="card">
+<div class="entry-img"><img src="assets/entries/op-ntwo.jpg" alt="N‑Two, ingénieur, le froid" loading="lazy" width="640" height="360"></div>
+<h3>N‑Two, ingénieur, le froid</h3>
+<p>Sa Cryo-Flask dure sept secondes au lieu de dix, mais inflige dix points de dégâts par demi-seconde au lieu de huit. Plus court, plus violent : à jeter dans un escalier ou une porte, là où la cible ne peut pas sortir du nuage.</p>
+</article>
+
+<article class="card">
+<div class="entry-img"><img src="assets/entries/op-shepherd.jpg" alt="Shepherd, soutien, à reconsidérer" loading="lazy" width="640" height="360"></div>
+<h3>Shepherd, soutien, à reconsidérer</h3>
+<p>Sa trappe sonore ne bloque plus les balles. Ce détail change son usage : elle reste un outil d’information et de ralentissement, elle n’est plus une couverture improvisée.</p>
+</article>
+
+<article class="card">
+<div class="entry-img"><img src="assets/entries/op-dwolf.jpg" alt="D‑Wolf, assaut, la mobilité" loading="lazy" width="640" height="360"></div>
+<h3>D‑Wolf, assaut, la mobilité</h3>
+<p>En Détonation, son exosquelette passe à cinq charges pour vingt-cinq secondes, et sa grenade fumigène voit son délai réduit à quarante-cinq secondes. En Warfare, il reste l’un des choix les plus agressifs, à condition de bouger : les duels statiques gâchent son kit.</p>
+</article>
+
+<h2>Choisir selon le contexte</h2>
+<ul>
+<li><strong>Operations, raid solo</strong> : un opérateur qui apporte de l’information ou de la survie. La reconnaissance silencieuse vaut mieux qu’un kit de brèche.</li>
+<li><strong>Operations, escouade</strong> : un soutien qui relève et ravitaille change le taux d’extraction plus sûrement qu’un troisième assaut.</li>
+<li><strong>Warfare, poussée bloquée</strong> : assaut pour ouvrir, ingénieur si le blocage vient d’un véhicule.</li>
+<li><strong>Détonation</strong> : un seul opérateur par équipe, donc la composition se décide avant la manche. Un doublon est refusé.</li>
+</ul>
+
+<figure class="page-figure"><img src="assets/brakkesh-faction-hunt.jpg" alt="Opérateurs en progression dans une zone urbaine dense, armes levées"><figcaption>La classe utile est celle qui règle le problème du moment : entrer, tenir, soigner ou informer.</figcaption></figure>
+
+<div class="callout" style="margin-top:20px"><strong>Un repère honnête :</strong> aucun taux de victoire par opérateur n’a été publié par l’éditeur. Toute affirmation du type « X est le meilleur » repose sur l’opinion d’un joueur ou d’un site, pas sur des données.</div>
+
+<h2>Le même opérateur ne vaut pas la même chose seul ou à trois</h2>
+<p>C’est le piège de tous les classements : ils mélangent deux jeux différents. Un opérateur dont l’atout principal profite à l’équipe perd la moitié de sa valeur quand personne ne pousse derrière. Un opérateur dont l’atout sert d’abord à soi garde toute la sienne. Le tableau ci-dessous classe les mêmes personnages dans les deux situations, en Operations.</p>
+<div class="table-wrap"><table class="data-table">
+<thead><tr><th>Opérateur</th><th>Classe</th><th>À trois</th><th>En solo</th><th>Ce qui change</th></tr></thead>
+<tbody>
+<tr><td>Luna</td><td>Reconnaissance</td><td>Très fort</td><td>Très fort</td><td class="muted">Rien : l’information sert autant seul qu’à trois, et ne demande personne derrière.</td></tr>
+<tr><td>Hackclaw</td><td>Reconnaissance</td><td>Fort</td><td>Très fort</td><td class="muted">Gagne en solo : pas silencieux pour fuir, et un décodeur qui révèle l’équipement adverse avant d’engager.</td></tr>
+<tr><td>Nox</td><td>Assaut</td><td>Fort</td><td>Très fort</td><td class="muted">Son ultime sert aussi de sortie de secours, ce qui vaut plus quand personne ne vient te chercher.</td></tr>
+<tr><td>Morse</td><td>Reconnaissance</td><td>Fort</td><td>Fort</td><td class="muted">Meilleure ouïe du jeu et une paralysie qui gagne un duel, mais faible en extérieur.</td></tr>
+<tr><td>Vyron</td><td>Assaut</td><td>Moyen à fort</td><td>Moyen</td><td class="muted">Le plus mobile des assauts : une qualité qui profite surtout à celui qui a un plan à trois.</td></tr>
+<tr><td>Stinger</td><td>Soutien</td><td>Fort</td><td>Moyen</td><td class="muted">Soins et fumigènes : utile à tout le monde, décisif pour les autres.</td></tr>
+<tr><td>Toxik</td><td>Soutien</td><td>Très fort</td><td>Moyen</td><td class="muted">Une amélioration de zone vaut une équipe entière ; seul, elle éclaire une pièce vide.</td></tr>
+<tr><td>Sineva, Uluru, Shepherd</td><td>Ingénieur, soutien</td><td>Correct</td><td>Faible</td><td class="muted">Trois kits construits autour du travail d’équipe : à éviter pour un raid en solitaire.</td></tr>
+</tbody></table></div>
+<p>La conséquence pratique est simple : si tu joues seul, choisis un opérateur dont l’atout ne dépend de personne. Si tu joues à trois avec une composition stable, choisis celui qui complète les deux autres, même s’il est moins bon dans l’absolu.</p>
+
+<figure class="page-figure"><img src="assets/operateurs-comparatif.jpg" alt="Quatre opérateurs en silhouette dans un hangar, chacun avec un équipement différent"><figcaption>Quatre façons d’aborder la même pièce. Le classement dépend de qui entre avec toi.</figcaption></figure>
+<h2>Les classements de la communauté, et pourquoi il faut s’en méfier</h2>
+<p>Cherche « tier list Delta Force » et tu trouveras au moins six classements qui se contredisent, tous publiés entre septembre et novembre 2026. Ce n’est pas de l’incompétence : les listes divergent parce qu’elles ne parlent pas du même mode. Un opérateur qui domine en Warfare 32 contre 32 n’a pas la même valeur en Operations, où mourir coûte un kit.</p>
+<div class="table-scroll"><table class="data-table">
+<thead><tr><th>Opérateur</th><th>Ce que la communauté en dit</th><th>Où ça se vérifie</th></tr></thead>
+<tbody>
+<tr><td>Luna</td><td>Considérée comme le meilleur impact individuel, utile dans toutes les compositions. Son marquage à travers les murs est aussi le meilleur contre les fumigènes.</td><td>Operations, surtout en solo : l’information vaut de l’argent quand mourir coûte le sac.</td></tr>
+<tr><td>Stinger</td><td>Le soutien le plus sûr et le plus recommandé aux débutants : fumigènes, pistolet de soin, stimulant, relève à pleine vie.</td><td>Warfare et Operations. Le meilleur premier achat si tu ne sais pas quoi jouer.</td></tr>
+<tr><td>Nox</td><td>Flanquement silencieux, ultime qui sert aussi d’échappatoire. Un affaiblissement en septembre a réduit ses dégâts de capacité, pas son utilité de fuite.</td><td>Operations solo et duo. Plus contesté en Warfare, où certains le trouvent sans puissance de feu utilitaire.</td></tr>
+<tr><td>D-Wolf</td><td>Choix le plus sûr pour Warfare : autonome, plancher de performance élevé, aucune configuration complexe.</td><td>Warfare. En Operations, la mobilité se paie parfois en discrétion.</td></tr>
+<tr><td>Shepherd</td><td>Excellent en intérieur à courte portée, moins utile en extérieur. Certains le classent très haut, d’autres le descendent d’un cran.</td><td>Warfare, sur les cartes à couloirs. Sa valeur s’effondre sans équipe pour exploiter son installation.</td></tr>
+<tr><td>Uluru</td><td>Décrit par plusieurs joueurs comme la meilleure réponse antichar de Warfare, très fort sur les petites cartes.</td><td>Warfare. C’est l’alternative crédible à l’ingénieur classique contre les blindés.</td></tr>
+<tr><td>Tempest</td><td>Très sous-estimée selon une partie de la communauté, jugée excellente par une autre. Le désaccord est net.</td><td>Warfare. Quand deux camps aussi tranchés existent, teste-la toi-même avant d’investir.</td></tr>
+</tbody></table></div>
+<p class="mini">Synthèse de classements et de fils de discussion publiés entre septembre et novembre 2026. Aucun éditeur ne publie de taux de victoire par opérateur : ces rangs sont des opinions argumentées, pas des mesures.</p>
+
+<h2>Comment lire un classement sans se faire avoir</h2>
+<ul>
+<li><strong>Regarde le mode avant le rang.</strong> Un « S » en Warfare ne veut rien dire pour un joueur d’Operations.</li>
+<li><strong>Regarde la date.</strong> Un affaiblissement suffit à déplacer trois opérateurs dans la même liste.</li>
+<li><strong>Regarde la taille de l’échantillon.</strong> Un fil où chacun donne son top cinq n’est pas une statistique, c’est une conversation. Elle reste utile : les arguments répétés disent quelque chose du ressenti réel.</li>
+<li><strong>Teste le premier achat avant le deuxième.</strong> Stinger ou D-Wolf couvrent la majorité des situations. Le reste s’achète quand tu sais pourquoi.</li>
+</ul>
+
+<figure class="page-figure"><img src="assets/operateurs-loadout-choice.jpg" alt="Quatre opérateurs aux silhouettes distinctes dans une salle d’attente éclairée par une lampe"><figcaption>Quatre rôles, quatre silhouettes : on choisit ce qui manque à l’équipe, pas son préféré.</figcaption></figure>
+<p style="margin-top:24px">Voir aussi : <a class="inline-link" href="arsenal.html">les armes</a> et <a class="inline-link" href="warfare.html">Warfare</a>.</p>
+</section><nav class="pager" aria-label="Pagination"><a href="arsenal.html"><small>Page précédente</small>← Arsenal</a><a href="objets.html" style="text-align:right"><small>Page suivante</small>Objets →</a></nav></main>
+<footer class="site-foot"><div class="wrap foot-row">
+<div>Delta Force Ultimate Guide · guide communautaire en français, sans affiliation avec Team Jade. Dernière vérification des informations : 15 novembre 2026.</div>
+<div><a href="plan.html">Plan du site</a> · <a href="sources.html">Sources</a> · <a href="index.html#avertissement">Avertissement</a></div>
+</div></footer>
+<div id="toast" class="toast"></div>
+<script src="js/site.js"></script>
+</body>
+</html>

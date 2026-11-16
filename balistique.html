@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Balistique, armure et nombre de balles · Delta Force Ultimate Guide</title>
+<meta name="description" content="Comprendre la pénétration par paliers, les cinq munitions d’Aurora et calculer combien de balles il faut pour passer une armure.">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<header class="topbar"><div class="wrap navrow">
+<a class="brand" href="index.html" aria-label="Delta Force Ultimate Guide, accueil"><span class="brand-mark">Δ</span><span>DELTA FORCE <b>Ultimate Guide</b></span></a>
+<div class="navwrap" id="navLinks"><div class="mmenu"><div class="mmenu-bar"><button class="mmenu-toggle" id="mmenuToggle" aria-expanded="false" aria-controls="mmenuPanel"><span class="mmenu-burger" aria-hidden="true"><i></i><i></i><i></i></span><span class="mmenu-word">MENU</span></button><div class="mmenu-chips"><a class="mmenu-chip chip-home" href="index.html">Accueil</a><a class="mmenu-chip" href="memo.html">Mémo du jeu</a><a class="mmenu-chip" href="db.html">Base de données</a><a class="mmenu-chip" href="saison.html">Saison Aurora</a></div></div><div class="mmenu-panel" id="mmenuPanel" hidden><div class="mmenu-cols"><div class="mmenu-col"><p class="mmenu-title">Démarrer</p><a href="debuter.html"><b>Débuter</b><span>Les premières heures, sans brûler son équipement</span></a><a href="progression.html"><b>Progression</b><span>Monter un compte : missions, site noir, cache</span></a><a href="economie.html"><b>Économie</b><span>Rentabilité d’un raid, ventes, coffre sécurisé</span></a><a href="reglages.html"><b>Réglages et sécurité</b><span>Commandes, HUD, anti-triche</span></a></div><div class="mmenu-col"><p class="mmenu-title">Terrain</p><a href="cartes.html"><b>Cartes</b><span>Routes types et pièges de terrain</span></a><a href="sorties.html"><b>Sorties</b><span>Ce que chaque extraction exige</span></a><a href="spacecity.html"><b>Space City</b><span>Sorties à commutateur et Polaris Patrol</span></a><a href="zenith.html"><b>Zenith Port</b><span>Riptide, toits, thermobarique</span></a></div><div class="mmenu-col"><p class="mmenu-title">Combattre</p><a href="balistique.html" class="is-current"><b>Balistique</b><span>Pénétration, armure et nombre de balles</span></a><a href="munitions.html"><b>Munitions et armures</b><span>Quel niveau perce quoi</span></a><a href="arsenal.html"><b>Arsenal</b><span>Armes Aurora, builds, codes à importer</span></a><a href="operateurs.html"><b>Opérateurs</b><span>Choisir un rôle utile à l’équipe</span></a><a href="warfare.html"><b>Warfare</b><span>Rôles, véhicules, anti-blindé</span></a><a href="detonation.html"><b>Détonation</b><span>5v5 bombe : économie et manches</span></a></div><div class="mmenu-col"><p class="mmenu-title">Ressources</p><a href="butin.html"><b>Quel butin prendre</b><span>Le classement par valeur réelle</span></a><a href="objets.html"><b>Objets</b><span>Ce qui protège, soigne ou se revend</span></a><a href="saison.html"><b>Saison Aurora</b><span>Correctifs, calendrier, codes, routine</span></a></div><div class="mmenu-col"><p class="mmenu-title">Base</p><a href="db.html"><b>Base de données</b><span>919 fiches en cinq pages</span></a><a href="db-armes.html"><b>Armes</b><span>Les 50 armes, icônes et valeurs</span></a><a href="db-munitions.html"><b>Munitions</b><span>Les 71 munitions et leur pénétration</span></a><a href="db-equipement.html"><b>Équipement</b><span>Casques, gilets, sacs, protections</span></a><a href="db-collectibles.html"><b>Collectibles</b><span>Les 272 objets de collection</span></a><a href="db-cartes.html"><b>Cartes d’accès</b><span>Les 59 clés et ce qu’elles ouvrent</span></a><a href="db-consommables.html"><b>Consommables</b><span>Les 30 soins et kits</span></a><a href="db-accessoires.html"><b>Accessoires</b><span>Les 433 accessoires d’armes</span></a></div><div class="mmenu-col"><p class="mmenu-title">Repères</p><a href="memo.html"><b>Mémo du jeu</b><span>La synthèse en une page : règles, chiffres, dates</span></a><a href="conseils.html"><b>Conseils de joueurs</b><span>Ce que retiennent les chaînes françaises</span></a><a href="audio.html"><b>Briefings audio</b><span>Neuf mémos en français</span></a><a href="plan.html"><b>Plan du site</b><span>Toutes les pages, tous les sujets</span></a><a href="sources.html"><b>Sources</b><span>D’où vient chaque information</span></a></div></div><div class="mmenu-foot"><span>30 pages · tout en français · sources datées</span><a href="plan.html">Voir le plan détaillé →</a></div></div></div><div class="mmenu-scroll" aria-label="Navigation rapide"><a href="debuter.html">Débuter</a><a href="progression.html">Progression</a><a href="economie.html">Économie</a><a href="reglages.html">Réglages et sécurité</a><a href="cartes.html">Cartes</a><a href="sorties.html">Sorties</a><a href="spacecity.html">Space City</a><a href="zenith.html">Zenith Port</a><a href="balistique.html">Balistique</a><a href="munitions.html">Munitions et armures</a><a href="arsenal.html">Arsenal</a><a href="operateurs.html">Opérateurs</a><a href="warfare.html">Warfare</a><a href="detonation.html">Détonation</a><a href="butin.html">Quel butin prendre</a><a href="objets.html">Objets</a><a href="saison.html">Saison Aurora</a><a href="db.html">Base de données</a><a href="db-armes.html">Armes</a><a href="db-munitions.html">Munitions</a><a href="db-equipement.html">Équipement</a><a href="db-collectibles.html">Collectibles</a><a href="db-cartes.html">Cartes d’accès</a><a href="db-consommables.html">Consommables</a><a href="db-accessoires.html">Accessoires</a><a href="memo.html">Mémo du jeu</a><a href="conseils.html">Conseils de joueurs</a><a href="audio.html">Briefings audio</a><a href="plan.html">Plan du site</a><a href="sources.html">Sources</a></div></div>
+<div class="nav-actions">
+<div class="quick-search"><input id="quickSearch" type="search" placeholder="Chercher sur cette page" aria-label="Chercher sur cette page" autocomplete="off"><div id="quickResults" class="quick-results" role="listbox"></div></div>
+<a class="btn small" href="plan.html">Plan du site</a>
+<button class="icon-btn" id="themeToggle" aria-label="Changer le thème" title="Contraste">◐</button>
+</div>
+</div></header>
+<main class="wrap">
+<section class="page-head">
+<div class="section-kicker">06 · Balistique</div>
+<h1>Combien de balles, exactement</h1>
+<p class="lead">Le temps de mort dépend de trois choses : les dégâts de la munition, son niveau de pénétration face à la classe d’armure, et l’endroit touché. Le calcul ci-dessous montre l’écart entre « il me faut six balles » et « il m’en faut deux ».</p>
+<div class="tag-row"><span class="tag good">Modèle simplifié</span><span class="tag">Stand de tir = référence</span></div>
+</section>
+
+<section class="page-body">
+<h2>Le calculateur</h2>
+<p>Les valeurs de dégâts et de pénétration se lisent dans le stand de tir ou sur la fiche de la cartouche. Le modèle applique la règle des paliers, sans tenir compte de la chute de dégâts à distance : c’est un outil pour comprendre, pas pour trancher un duel.</p>
+<div class="panel">
+<div class="form-grid">
+<div class="field"><label for="dmg">Dégâts de base de la munition</label><input id="dmg" type="number" min="1" step="1" value="34"></div>
+<div class="field"><label for="pen">Niveau de pénétration · 0 à 5</label><input id="pen" type="number" min="0" max="5" step="1" value="4"><small>Les munitions Aurora vont du niveau 4 au niveau 5.</small></div>
+<div class="field"><label for="cls">Classe d’armure visée · 1 à 6</label><input id="cls" type="number" min="1" max="6" step="1" value="4"></div>
+<div class="field"><label for="part">Partie du corps</label><select id="part"><option value="1.5">Tête</option><option value="1" selected>Poitrine</option><option value="0.9">Abdomen</option><option value="0.75">Membre</option></select></div>
+<div class="field"><label for="dura">Durabilité de l’armure · PV</label><input id="dura" type="number" min="0" step="5" value="60"></div>
+<div class="field"><label for="hp">Points de vie de la cible</label><input id="hp" type="number" min="1" step="5" value="100"></div>
+</div>
+<div class="result-row"><span>Dégâts qui passent par balle, armure intacte</span><b id="effDmg">—</b></div>
+<div class="result-row"><span>Balles pour casser l’armure</span><b id="armorShots">—</b></div>
+<div class="result-row"><span>Balles pour tuer, armure comprise</span><b id="ttkShots">—</b></div>
+<div class="result-row"><span>Verdict</span><b id="verdict">—</b></div>
+</div>
+<p>Un exemple concret : trente-quatre dégâts en pénétration 4 contre une armure classe 4, en poitrine, demandent six balles ; les mêmes balles en tête en demandent trois. Contre une classe 5, on passe à sept. Ce sont ces écarts qui rendent la munition plus importante que le canon.</p>
+
+<h2>La règle des paliers</h2>
+<p>Pense en marches, pas en pourcentages. Deux niveaux au-dessus de l’armure, la balle traverse et frappe à pleine puissance. Un niveau au-dessus, elle traverse en perdant environ un quart de ses dégâts. À niveau égal, la moitié passe et l’autre use la plaque. En dessous, l’armure encaisse tant qu’elle tient debout.</p>
+<p>Les membres ne sont jamais protégés. C’est ce qui rend la question « où est-ce que je tire » aussi importante que « avec quoi je tire » : contre un joueur mieux équipé, une munition sous-calibrée au torse ne donne rien, alors qu’une balle dans la jambe continue de compter.</p>
+
+<h2>Les cinq munitions d’Aurora</h2>
+<p>La saison a ajouté cinq cartouches, chacune avec un compromis assumé.</p>
+<ul>
+<li><strong>.300BLK TIV</strong> : détonante, pénétration 4, dégâts à 0,95. Explose après plusieurs impacts en trois secondes, dans un rayon de quatre mètres.</li>
+<li><strong>.300BLK TTV</strong> : même mécanique, pénétration 5. Le choix entre les deux se fait selon l’armure que tu rencontres, pas selon la puissance ressentie.</li>
+<li><strong>5,56 CINDER</strong> : incendiaire, pénétration 4, dégâts normaux, brûlure à l’impact. Le prix se paie en recul.</li>
+<li><strong>9×19 7N30</strong> : perforante, pénétration 5 mais dégâts à 0,9 et pénétration d’armure à 0,85. Poudre économique : plus de recul, moins de rendement.</li>
+<li><strong>5,45 SPALL</strong> : perforante, pénétration 4, pensée pour gêner la réparation de l’équipement adverse.</li>
+</ul>
+<p>Un niveau de pénétration plus élevé n’apporte pas plus de dégâts par balle. C’est un accès, pas une puissance. Choisis selon la classe d’armure que tu croises réellement dans tes parties.</p>
+
+<h2>Le comparateur</h2>
+<p>Même arme, même cible : les cinq cartouches classées du plus rapide au plus lent à tuer.</p>
+<div class="panel">
+<div class="form-grid">
+<div class="field"><label for="cmpDmg">Dégâts de base de l’arme</label><input id="cmpDmg" type="number" min="1" step="1" value="34"></div>
+<div class="field"><label for="cmpCls">Classe d’armure visée</label><input id="cmpCls" type="number" min="1" max="6" step="1" value="5"></div>
+</div>
+<div id="cmpOut" class="exfil-list" style="margin-top:12px"></div>
+</div>
+<p>Contre une classe 5, avec une arme à trente-quatre dégâts, quatre cartouches sortent à sept balles et la TIV à huit : le multiplicateur de dégâts plus faible de la 7N30 est compensé par son palier de pénétration. C’est exactement le genre d’arbitrage qu’on ne devine pas à l’œil.</p>
+
+<figure class="page-figure"><img src="assets/ballistics-bench.jpg" alt="Cartouches de calibres différents et plaque balistique impactée sur un établi"><figcaption>La cartouche décide, l’arme exécute. Une plaque entamée casse plus vite, et une balle sous-calibrée n’ouvre rien.</figcaption></figure>
+
+<h2>Ce qui change vraiment ton temps de mort</h2>
+<ul>
+<li><strong>La munition avant l’arme.</strong> Passer d’une balle de base à une balle perforante change le nombre de balles ; changer de canon ne le change pas.</li>
+<li><strong>La distance.</strong> Les dégâts chutent avec la portée. Une arme réglée pour quarante mètres n’a plus les mêmes chiffres à quatre-vingts.</li>
+<li><strong>La cadence.</strong> Deux balles à six cents coups minute laissent plus de temps à la cible que deux balles à neuf cents.</li>
+<li><strong>La durabilité.</strong> Une plaque entamée casse plus vite : c’est pourquoi un échange perdu profite toujours au second assaillant.</li>
+</ul>
+
+<h2>Les dix-sept calibres, et ce que chacun peut espérer</h2>
+<p>Une arme ne tire jamais une seule balle : elle tire une famille. La base recense soixante-onze munitions réparties sur dix-sept calibres, et l’écart à l’intérieur d’un même calibre est souvent plus large que l’écart entre deux armes. Le tableau donne, pour chaque famille, le nombre de balles disponibles et les niveaux de pénétration qu’elle atteint réellement.</p>
+<div class="table-wrap"><table class="data-table">
+<thead><tr><th>Calibre</th><th>Balles</th><th>Niveaux disponibles</th><th>Meilleur</th><th>À retenir</th></tr></thead>
+<tbody>
+<tr><td><b>.338 Lap Mag</b></td><td>1</td><td>7</td><td class="muted">niv. 7</td><td class="muted">plafond à six ou sept</td></tr>
+<tr><td><b>6.8x51mm</b></td><td>3</td><td>4 · 5 · 6</td><td class="muted">niv. 6</td><td class="muted">plafond à six ou sept</td></tr>
+<tr><td><b>7.62x51mm</b></td><td>4</td><td>3 · 4 · 5 · 6</td><td class="muted">niv. 6</td><td class="muted">plafond à six ou sept</td></tr>
+<tr><td><b>7.62x54mm</b></td><td>4</td><td>3 · 4 · 5 · 6</td><td class="muted">niv. 6</td><td class="muted">plafond à six ou sept</td></tr>
+<tr><td><b>12.7x55mm</b></td><td>4</td><td>— · 3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">une référence sans niveau publié</td></tr>
+<tr><td><b>4.6x30mm</b></td><td>3</td><td>3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>5.45x39mm</b></td><td>5</td><td>1 · 2 · 3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>5.56x45mm</b></td><td>5</td><td>1 · 2 · 3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>5.7x28mm</b></td><td>6</td><td>— · 1 · 2 · 3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">une référence sans niveau publié</td></tr>
+<tr><td><b>5.8x42mm</b></td><td>4</td><td>2 · 3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>7.62x39mm</b></td><td>5</td><td>1 · 2 · 3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>9x39mm</b></td><td>3</td><td>3 · 4 · 5</td><td class="muted">niv. 5</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>.357 Magnum</b></td><td>4</td><td>— · 2 · 3 · 4</td><td class="muted">niv. 4</td><td class="muted">une référence sans niveau publié</td></tr>
+<tr><td><b>.45 ACP</b></td><td>5</td><td>— · 1 · 2 · 3 · 4</td><td class="muted">niv. 4</td><td class="muted">une référence sans niveau publié</td></tr>
+<tr><td><b>.50 AE</b></td><td>3</td><td>2 · 3 · 4</td><td class="muted">niv. 4</td><td class="muted">milieu de tableau</td></tr>
+<tr><td><b>12 Gauge</b></td><td>5</td><td>— · 1 · 2 · 3 · 4</td><td class="muted">niv. 4</td><td class="muted">une référence sans niveau publié</td></tr>
+<tr><td><b>9x19mm</b></td><td>5</td><td>— · 1 · 2 · 3 · 4</td><td class="muted">niv. 4</td><td class="muted">une référence sans niveau publié</td></tr>
+</tbody></table></div>
+<p>Trois lectures sortent de ce tableau. Les calibres de fusil de précision (7.62×51, 7.62×54, 6.8×51) montent à six, ce qui laisse la possibilité de percer une plaque de grade 5 sans dépendre d’un tir parfait. Les calibres d’assaut plafonnent à cinq : c’est suffisant contre la majorité des protections rencontrées, insuffisant contre un joueur en grade 6. Et les calibres de pistolet, mitraillette et fusil à pompe s’arrêtent à quatre, ce qui les cantonne au combat rapproché et aux cibles peu ou pas protégées.</p>
+<p>Le point qui surprend le plus quand on ouvre la base pour la première fois : le 5.7×28 propose six balles différentes, davantage que le 7.62×51. Un calibre de pistolet-mitrailleur offre donc plus de nuances qu’un calibre de sniper. Sur le terrain, ça veut dire plus de choix à faire, et plus d’occasions de se tromper.</p>
+<p style="margin-top:24px">Voir aussi : <a class="inline-link" href="arsenal.html">les armes et leurs builds</a>.</p>
+</section><nav class="pager" aria-label="Pagination"><a href="sorties.html"><small>Page précédente</small>← Sorties</a><a href="arsenal.html" style="text-align:right"><small>Page suivante</small>Arsenal →</a></nav></main>
+<footer class="site-foot"><div class="wrap foot-row">
+<div>Delta Force Ultimate Guide · guide communautaire en français, sans affiliation avec Team Jade. Dernière vérification des informations : 15 novembre 2026.</div>
+<div><a href="plan.html">Plan du site</a> · <a href="sources.html">Sources</a> · <a href="index.html#avertissement">Avertissement</a></div>
+</div></footer>
+<div id="toast" class="toast"></div>
+<script src="js/site.js"></script>
+</body>
+</html>
